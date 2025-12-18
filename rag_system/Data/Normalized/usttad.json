@@ -1,0 +1,14 @@
+{
+  "scheme_name": "usttad",
+  "description": "One-stop search and discovery platform of the Government schemes",
+  "benefits": [],
+  "eligibility": [],
+  "documents": [],
+  "metadata": {
+    "min_age": 0,
+    "max_income": 99999999,
+    "state": "Central",
+    "beneficiary_type": "General"
+  },
+  "source_url": "https://www.myscheme.gov.in/schemes/usttad"
+}

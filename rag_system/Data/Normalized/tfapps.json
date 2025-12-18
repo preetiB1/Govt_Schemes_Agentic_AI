@@ -1,0 +1,33 @@
+{
+  "scheme_name": "Technology Fellowship and Patent Promotion Scheme",
+  "description": "The scheme is for the Startups of Goa. The objective of the scheme is to identify technology educators in technical educational institutes in Goa who are keen to further their expertise.",
+  "benefits": [
+    "A technology fellowship program will run to identify technology educators in technical educational institutes in Goa.",
+    "The selected educators/fellows would be sent to Centres of Excellence within the country and abroad to undertake summer school and short-term training programs.",
+    "The Department of IT will set up Centres of Excellence/Advanced Maker Labs in select technical educational institutes.",
+    "The educators/fellows, upon selection, would receive an educational grant of ₹10,00,000 per year, for a period of five years.",
+    "The benefit of this scheme can be availed by up to ten educators/fellows per year.",
+    "In case such educators/fellows generate and get any business and value-driven patents registered, such fellows shall be eligible to receive a patent-specific grant of up to ₹15,00,000."
+  ],
+  "eligibility": [
+    "The applicant should be a technology educator in a technical educational institute in Goa."
+  ],
+  "documents": [
+    "CV of the applicant comprising of publication details, working paper details, award details, grant details",
+    "Acceptance letter to the program",
+    "Research proposal with market potential",
+    "Statement of purpose",
+    "Letter of recommendation from the institute and or University",
+    "Plan of action to execute the statement of purpose or the learnings of the program in Goa through courses/labs/incubators upon return",
+    "Fee schedule",
+    "In case of registration of patent, copy of certificate of registration",
+    "Bond (Annexure 2)"
+  ],
+  "metadata": {
+    "min_age": 0,
+    "max_income": 99999999,
+    "state": "Goa",
+    "beneficiary_type": "General"
+  },
+  "source_url": "https://www.myscheme.gov.in/schemes/tfapps"
+}

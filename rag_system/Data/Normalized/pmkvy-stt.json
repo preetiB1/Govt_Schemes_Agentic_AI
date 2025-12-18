@@ -1,0 +1,41 @@
+{
+  "scheme_name": "Pradhan Mantri Kaushal Vikas Yojana - Short Term Training",
+  "description": "The Pradhan Mantri Kaushal Vikas Yojana (PMKVY) - Short Term Training (STT) component provides skill training to Indian nationals who are school/college dropouts or unemployed. It offers training aligned with the National Skills Qualification Framework (NSQF), including soft skills, entrepreneurship, financial and digital literacy, with placement assistance. The scheme supports both fresh skilling and reskilling, and aims to enhance employability domestically and internationally through additional modules and bridge courses. It is implemented under both Central and State components, with training duration varying by job role, and also promotes fee-based higher-level skill courses while supporting marginalized sections.",
+  "benefits": [
+    "Online Information / Counselling Platform",
+    "Counselling through Helpline",
+    "Counselling through District-level skill information centre",
+    "Digital Content for training",
+    "Training in Soft Skills, Entrepreneurship, Financial and Digital Literacy",
+    "Accidental Insurance (Kaushal Bima) of Rs. 2 lakhs for three years",
+    "One-time incentive to all certified candidates",
+    "Boarding and lodging cost support",
+    "Conveyance cost",
+    "Post Placement Stipend",
+    "Additional support to PwD candidates",
+    "Induction kit and participant handbook",
+    "Yearly incentive to Training Provider",
+    "One-time placement travel cost",
+    "Career progression support",
+    "Special Incentive for foreign placements",
+    "Post Placement Tracking Allowance",
+    "Placement assistance",
+    "Post Training Support including add-on bridge courses and language courses for international compatibility"
+  ],
+  "eligibility": [
+    "Candidate must be of Indian nationality",
+    "Aged between 15-45 years",
+    "Possesses an Aadhaar card and an Aadhaar linked bank account",
+    "Fulfils other criteria for the respective job role as defined by the awarding body"
+  ],
+  "documents": [
+    "Documents as required for the specific job role"
+  ],
+  "metadata": {
+    "min_age": 15,
+    "max_income": 99999999,
+    "state": "Central",
+    "beneficiary_type": "General"
+  },
+  "source_url": "https://www.myscheme.gov.in/schemes/pmkvy-stt"
+}

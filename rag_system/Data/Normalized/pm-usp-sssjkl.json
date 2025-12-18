@@ -1,0 +1,39 @@
+{
+  "scheme_name": "Pradhan Mantri Uchchatar Shiksha Protsahan Yojana - Special Scholarship Scheme for Jammu & Kashmir and Ladakh",
+  "description": "The Pradhan Mantri Uchchatar Shiksha Protsahan Yojana (Special Scholarship Scheme for Jammu & Kashmir and Ladakh) aims to provide financial assistance to youth from J&K and Ladakh to pursue higher studies outside their Union Territories. Launched in 2011, the scheme offers 5000 fresh scholarships annually, covering academic fees and maintenance allowances, to improve skill sets, build capacities, and promote national integration by exposing students to other states and union territories' culture, language, and livelihood.",
+  "benefits": [
+    "5000 fresh scholarships are available per annum.",
+    "Academic fee support: up to ₹30,000 for General Degree courses, ₹1,25,000 for Professional/Engineering/B.Sc.Nursing/B.Pharmacy/B.Architecture/HMCT Degree courses, and ₹3,00,000 for Medical/BDS or equivalent Medical Stream courses.",
+    "Fixed maintenance allowance of ₹1,00,000 per annum (paid in ten equal installments of ₹10,000 each) to cover hostel, mess, books, stationery, and other incidental charges.",
+    "Academic fees are paid directly to the institution, while maintenance allowance is paid to the student's bank account through the NSP portal.",
+    "Scholarships are renewed in subsequent classes subject to good conduct and maintenance of attendance.",
+    "Flexibility in the number of scholarships for Engineering and Medical studies, subject to the overall ceiling of 5000 fresh scholarships per annum."
+  ],
+  "eligibility": [
+    "Candidates must be a domicile of the Union Territories of J&K and Ladakh.",
+    "Candidates must have passed the 12th examination from JKBOSE or CBSE affiliated schools located in UTs of J&K and Ladakh.",
+    "The family income of the candidate should be less than or equal to ₹8,00,000 per annum.",
+    "Candidates seeking admission under the Lateral Entry Scheme must have passed a Diploma in Engineering from Polytechnic Institutes recognized by the Directorate of Technical Education (DTE), UTs of J&K and Ladakh.",
+    "Candidates are compulsorily required to apply online on the AICTE web-portal and verify their documents through nearest Facilitation Centers within the specified timeframe.",
+    "Admission under the Lateral Entry Scheme is subject to the allocation of seats / vacant seats of the preceding year in the Engineering Stream and in the relevant stream only.",
+    "Merit list will be prepared for HSC and Lateral Entry students for online counselling and final allotment of seats."
+  ],
+  "documents": [
+    "Certificate of domicile of the UTs of Jammu & Kashmir and Ladakh.",
+    "Certificate of Class 12th and 10th Examination (for candidates who have passed class 12th examination).",
+    "Polytechnic Diploma Certificate (for Diploma candidates).",
+    "Income Certificate.",
+    "Caste Certificate (SC/ST/SEBC) issued by the State Government authority (if applying under the reserved quota).",
+    "Disability Certificate (for Persons with Disabilities, subject to Govt. Norms).",
+    "Joining report in the allotted college.",
+    "Name and photograph of the applicant.",
+    "AADHAAR Card."
+  ],
+  "metadata": {
+    "min_age": 0,
+    "max_income": 800000,
+    "state": "Jammu & Kashmir and Ladakh",
+    "beneficiary_type": "Student"
+  },
+  "source_url": "https://www.myscheme.gov.in/schemes/pm-usp-sssjkl"
+}

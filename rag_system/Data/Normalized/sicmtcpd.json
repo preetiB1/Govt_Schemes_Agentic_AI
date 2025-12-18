@@ -1,0 +1,33 @@
+{
+  "scheme_name": "Supply of Invalid Carriages (Motorized Tri-cycles) to the Persons With Disabilities",
+  "description": "The scheme is introduced to supply invalid carriages (motorised tricycles) free of cost to the differently abled persons who are engaged in gainful employment or who are pursuing higher / professional / technical education.",
+  "benefits": [
+    "Invalid carriages (Motorized Tricycles) are provided free of cost to the persons with disabilities."
+  ],
+  "eligibility": [
+    "The applicant should be a Native/Resident of the Union Territory of Puducherry for at least 5 years.",
+    "The annual income of the applicant should not exceed ₹ 75,000/- per annum.",
+    "The applicant should have a locomotor disability affecting lower limbs to a degree not less than 65%.",
+    "The applicant should be certified by the Medical Authority that he/she is fit for operating the invalid carriage (motor tricycle).",
+    "The applicant should not be in receipt of transport allowance for conveyance from the Department or any other source.",
+    "The applicant should be in gainful employment or pursuing higher studies."
+  ],
+  "documents": [
+    "Aadhaar Card.",
+    "Ration Card.",
+    "Residence-cum-Nativity Certificate, issued by the competent authority.",
+    "Recent Passport-Size Photograph.",
+    "Bank Passbook.",
+    "Bonafide Certificate from Institution or Working Certificate.",
+    "Financial Assistance ID Card.",
+    "Caste Certificate.",
+    "Disability Certificate."
+  ],
+  "metadata": {
+    "min_age": 0,
+    "max_income": 75000,
+    "state": "Puducherry",
+    "beneficiary_type": "Disabled"
+  },
+  "source_url": "https://www.myscheme.gov.in/schemes/sicmtcpd"
+}

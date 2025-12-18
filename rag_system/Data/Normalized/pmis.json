@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Prime Minister’s Internship Scheme",
+  "description": "A scheme providing internships for students and recent graduates in various sectors.",
+  "benefits": [
+    "Monthly assistance of ₹5,000 for 12 months",
+    "One-time grant of ₹6,000 after joining the internship",
+    "Potential for additional financial assistance from partner companies",
+    "Opportunity to gain experience with top companies in India",
+    "Skill development and professional networking"
+  ],
+  "eligibility": [
+    "Must have a Aadhaar Seeded Bank Account",
+    "Must physically join the internship",
+    "Joining must be verified by HR",
+    "Age between 21-24 years",
+    "Candidates enrolled in online/distance/correspondence learning programmes are eligible",
+    "Not an international candidate"
+  ],
+  "documents": [
+    "Aadhaar Card",
+    "Bank Account details"
+  ],
+  "metadata": {
+    "min_age": 21,
+    "max_income": 99999999,
+    "state": "Central",
+    "beneficiary_type": "Student"
+  },
+  "source_url": "https://www.myscheme.gov.in/schemes/pmis"
+}

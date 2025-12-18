@@ -1,0 +1,33 @@
+{
+  "scheme_name": "Prime Minister’s Scholarship Scheme for the Wards of Central Armed Police Forces & Assam Rifles",
+  "description": "The “Prime Minister’s Scholarship Scheme (PMSS) for the Wards of Central Armed Police Forces & Assam Rifles” is a scholarship scheme which was introduced by the Ministry of Home Affairs, Government of India from the academic year 2006-07 to encourage higher technical & professional education for the dependent wards & widows of Central Armed Police Forces & Assam Rifles (CAPFs & AR) Personnel.",
+  "benefits": [
+    "₹3,000/- per month for girls.",
+    "₹2,500/- per month for boys",
+    "Up to 5 years duration (depending on course duration)"
+  ],
+  "eligibility": [
+    "Wards/widows of deceased CAPFs & AR personnel who died in harness/election duty, wards of personnel disabled due to causes attributable to Government service, and Wards of Ex CAPFs & AR personnel in receipt of Gallantry Awards.",
+    "Wards/widows of retired and serving CAPFs & AR Personnel. (Personnel below Officer Rank)",
+    "Pursuing first professional degree programme in Engineering, Medicine, Dental, Veterinary, BBA, BCA, B. Pharma, B.SC (Nursing, Agriculture, etc.), MBA and MCA, etc.",
+    "Minimum of 60% marks in 10+2/Diploma/Graduation or equivalent (new applicants).",
+    "Minimum of 50% marks in each subsequent academic year (renewal applicants)."
+  ],
+  "documents": [
+    "Aadhaar Card",
+    "Service Certificate (serving personnel)",
+    "PPO/Discharge Certificate/Book (Categories A to F)",
+    "Disability Certificate (Categories B & D)",
+    "Death Certificate (Categories A & C)",
+    "Certificate of Gallantry award (Category E)",
+    "Mark sheet of MEQ (10+2/Diploma/Graduation)",
+    "Certificate issued by the educational institution (renewal)"
+  ],
+  "metadata": {
+    "min_age": 0,
+    "max_income": 99999999,
+    "state": "Central",
+    "beneficiary_type": "Student"
+  },
+  "source_url": "https://www.myscheme.gov.in/schemes/pmsswcapfar"
+}

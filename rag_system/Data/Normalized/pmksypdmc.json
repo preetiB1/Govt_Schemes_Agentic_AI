@@ -1,0 +1,33 @@
+{
+  "scheme_name": "Pradhan Mantri Krishi Sinchayee Yojana: Per Drop More Crop",
+  "description": "The scheme mainly focuses on enhancing water use efficiency at the farm level through Micro Irrigation (Drip and Sprinkler Irrigation System). Besides, it also supports micro-level water storage, and water conservation/management activities to supplement source creation for Micro Irrigation.",
+  "benefits": [
+    "Financial assistance to farmers for the installation of irrigation components under Micro Irrigation.",
+    "Installation of drip or sprinkler irrigation in the farmers’ field for selected crops.",
+    "Installation of the irrigation system can be done either by the farmers themselves or by the selection of any approved Micro Irrigation companies.",
+    "Subsidy payable to the beneficiary will be 55% for small and marginal farmers and 45% for other farmers which will be met by both the Central Government and State Government in the ratio of 60:40 for all states except the North Eastern and Himalayan states.",
+    "Direct Benefit Transfer into the accounts of farmers.",
+    "Farmers can also avail benefits like water harvesting structures both at individual and community levels, water lifting devices for conveyance efficiency, and digging of a farm pond, under Other Interventions of Per Drop More Crop."
+  ],
+  "eligibility": [
+    "The applicant should be a citizen of India.",
+    "All the farmers of the State & Union Territory are eligible to take the benefits of this scheme.",
+    "The subsidy payable to the beneficiary will be limited to an overall ceiling of 5 hectares per beneficiary."
+  ],
+  "documents": [
+    "Aadhaar Card",
+    "Bank Account Details",
+    "Address proof",
+    "Passport size photograph",
+    "Caste Certificate (If applicable)",
+    "Proof of Agriculture land documents",
+    "Domicile Certificate of State/UT"
+  ],
+  "metadata": {
+    "min_age": 0,
+    "max_income": 99999999,
+    "state": "Central",
+    "beneficiary_type": "Farmer"
+  },
+  "source_url": "https://www.myscheme.gov.in/schemes/pmksypdmc"
+}

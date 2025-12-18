@@ -1,0 +1,33 @@
+{
+  "scheme_name": "Pradhan Mantri Adarsh Gram Yojana",
+  "description": "The Pradhan Mantri Adarsh Gram Yojana (PMAGY) was launched in 2009-10 with an area-based development approach, aiming for the integrated development of Scheduled Castes (SC) majority villages. Its principal objective is achieved through two main avenues: convergent implementation of relevant Central and State/UT Government Schemes, and by providing 'Gap-filling' funds as Central Assistance up to ₹20,00,000/- per village for activities not covered by existing schemes. The scheme was piloted in 1000 villages across Tamil Nadu, Rajasthan, Bihar, Himachal Pradesh, and Assam, all of which have been declared 'Adarsh Grams'. An 'Adarsh Gram' envisions a village where residents have access to all basic services, minimum needs are met, disparities are reduced, and an environment for dignified living and full potential utilization is created.",
+  "benefits": [
+    "Holistic Village Development focusing on Scheduled Caste (SC)-majority villages, transforming them into model villages with access to all basic services.",
+    "Financial Support of ₹20 lakh per village for filling critical gaps in infrastructure and services.",
+    "Village Development Plan (VDP): A custom 5-year development plan based on baseline survey and needs.",
+    "Convergence of Schemes: Integrates multiple central/state schemes like PMAY-G, MGNREGS, Ujjwala, SBM, etc.",
+    "Infrastructure Improvements including roads, electricity, sanitation, water, healthcare, schools, Anganwadis, etc.",
+    "Social Empowerment promoting social harmony, inclusion, and awareness among SC communities.",
+    "Monitoring Framework tracking progress across 50+ indicators in education, health, livelihoods, etc.",
+    "No Direct Cash Benefit, but individuals benefit indirectly through improved village facilities and access to schemes."
+  ],
+  "eligibility": [
+    "Village must have ≥50% Scheduled Caste (SC) population, but villages with ≥40% SC population may also be included in some states.",
+    "The village must be recognized in the latest Census data.",
+    "Ideally villages with ≥500 total population.",
+    "Villages already covered under PMAGY earlier phases may not be reselected."
+  ],
+  "documents": [
+    "Village Development Plan (VDP).",
+    "Bank Account Details (for Implementing Agencies).",
+    "Details of the Village PMAGY Convergence Committee (List of committee members with names, designations, contact details, and official approval by Gram Panchayat or concerned authority).",
+    "Data on Percentage of Households Having Access to the Following Domains (as per prescribed format): Drinking Water and Sanitation, Health and Nutrition, Rural Roads and Housing, Electricity and Clean Fuel, Digitization, Education, Social Security, Agricultural Practices, Financial Inclusion, Livelihood and Skill Development."
+  ],
+  "metadata": {
+    "min_age": 0,
+    "max_income": 99999999,
+    "state": "Central",
+    "beneficiary_type": "General"
+  },
+  "source_url": "https://www.myscheme.gov.in/schemes/pmagy"
+}

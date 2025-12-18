@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Pradhan Mantri Garib Kalyan Package : Insurance Scheme For Health Workers Fighting COVID-19",
+  "description": "Aims to provide financial protection to health workers combating the COVID-19 pandemic. An insurance cover of ₹50,00,000/- is provided to healthcare professionals.",
+  "benefits": [
+    "An insurance cover of ₹50,00,000/- will be provided in case of death or permanent disability due to COVID-19."
+  ],
+  "eligibility": [
+    "The applicant must be a healthcare worker, including doctors, nurses, paramedics, and support staff, who is directly involved in COVID-19 duties.",
+    "The applicant should be a citizen of India.",
+    "The applicant should have registered under a government health program and be working in a COVID-19-designated hospital or care facility."
+  ],
+  "documents": [
+    "Claim form duly filled and signed by the nominee/claimant.",
+    "Identity proof of Deceased (Certified copy)",
+    "Identity proof of the Claimant (Certified copy)",
+    "Proof of relationship between the Deceased and the Claimant (Certified copy)",
+    "Death summary by the Hospital where death occurred (in case death occurred in hospital)(Certified copy).",
+    "Death Certificate (in Original)",
+    "Post-mortem Report (Certified copy)",
+    "Cancelled Cheque (desirable) (in Original)",
+    "FIR (Certified copy)",
+    "Certificate by the Healthcare Institution/ organization/ office that the deceased was an employee of /engaged by the institution and had an accidental loss of life on account of COVID-19 related duty.",
+    "Laboratory Report certifying having tested Positive for COVID-19 (in Original or Certified copy)"
+  ],
+  "metadata": {
+    "min_age": 0,
+    "max_income": 99999999,
+    "state": "Central",
+    "beneficiary_type": "General"
+  },
+  "source_url": "https://www.myscheme.gov.in/schemes/pmgkp"
+}

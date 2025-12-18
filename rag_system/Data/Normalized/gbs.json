@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Green Business Scheme",
+  "description": "Provides financial assistance in the form of loans for activities that can tackle the impacts of climate change and also be income-generating.",
+  "benefits": [
+    "Need-based loans as permissible under the NSFDC Term Loan Lending Policy",
+    "Interest rates as low as 2% per annum for Scheduled Castes",
+    "Maximum loan amount up to Rs. 30 lakh",
+    "Repayment tenure of 10 years, including a 6-month moratorium period",
+    "1% Rebate from NSKFDC share of interest in case of Female Beneficiaries"
+  ],
+  "eligibility": [
+    "Safai Karamcharis are eligible",
+    "Scavengers are eligible",
+    "Dependents of Safai Karamcharis and Scavengers are eligible"
+  ],
+  "documents": [
+    "Aadhaar Card",
+    "Driving License",
+    "Bank Details",
+    "Caste Certificate",
+    "Income Certificate",
+    "Domicile Certificate"
+  ],
+  "metadata": {
+    "min_age": 0,
+    "max_income": 99999999,
+    "state": "Central",
+    "beneficiary_type": "General"
+  },
+  "source_url": "https://www.myscheme.gov.in/schemes/gbs"
+}

@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Financial Assistance for the Purchase of Lifejackets and Lifebuoys for Fishermen",
+  "description": "Through this scheme, financial assistance amounting to ₹50% is provided by the Government to eligible fishermen for the Purchase of Lifejackets and Lifebuoys. The applications are accepted only in offline mode.",
+  "benefits": [
+    "The support is extended up to ₹1,000/- per lifejacket and ₹1,500/- per lifebuoy.",
+    "For Canoe Fitted With OBM: 05 Life Jackets and 01 Lifebuoy.",
+    "For Mechanised Trawlers Engaged in Trawling Operations: 08 Life Jackets and 02 Lifebuoys.",
+    "For Mechanised Trawlers Engaged in Purse Seining Operation: 25 Life Jackets and 04 Lifebuoys."
+  ],
+  "eligibility": [
+    "The applicant should be a traditional fisherman by birth or profession.",
+    "The applicant should be a resident of Goa.",
+    "The applicant should possess one of the following: a Canoe Fitted With OBM; Mechanised Trawlers Engaged in Trawling or Purse Seining Operations."
+  ],
+  "documents": [
+    "Updated Fishing License Certificate/Fishing Net License Receipts",
+    "Vessel Registration Certificate",
+    "Aadhaar Card",
+    "Mandate Form"
+  ],
+  "metadata": {
+    "min_age": 0,
+    "max_income": 99999999,
+    "state": "Goa",
+    "beneficiary_type": "General"
+  },
+  "source_url": "https://www.myscheme.gov.in/schemes/fapllf"
+}

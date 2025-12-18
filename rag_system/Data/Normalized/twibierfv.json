@@ -1,0 +1,35 @@
+{
+  "scheme_name": "Pradhan Mantri Matsya Sampada Yojana: Three Wheeler with Ice Box Including E-rickshaws for Fish Vending - Haryana",
+  "description": "The “Three Wheeler with Ice Box Including E-rickshaws for Fish Vending” is a scheme component under the Pradhan Mantri Matsya Sampada Yojana (PMMSY), implemented by the Fisheries Department, Government of Haryana. This is a Centrally Sponsored Scheme that aims to strengthen fish transportation infrastructure by promoting hygienic and efficient fish transportation and retailing through mobile outlets. Under this scheme, financial assistance is provided to eligible beneficiaries for purchasing e-rickshaws equipped with ice boxes for direct fish selling.",
+  "benefits": [
+    "Project Cost: ₹3,00,000/- per unit (for purchasing a three-wheeler e-rickshaw equipped with an ice-box for selling fish.)",
+    "Subsidy will be limited to 40% of the project cost for the General Category of beneficiaries.",
+    "Subsidy will be limited to 60% of the project cost for Weaker sections/Scheduled Caste/Scheduled Tribe/Women and their co-operatives of beneficiaries."
+  ],
+  "eligibility": [
+    "The applicant should be a resident of Haryana.",
+    "The applicant should have a Parivar Pehchan Patra.",
+    "The applicant should ensure that the fish transport facility (e-rickshaw) is maintained in working condition.",
+    "The applicant is eligible to purchase only one new three-wheeler e-rickshaw with an ice box for fisheries activities under this scheme.",
+    "The applicant should agree that neither the Central Government nor the State Government shall be held responsible for any financial or operational losses incurred in the procurement, operation, maintenance, or management of the fish transport facilities."
+  ],
+  "documents": [
+    "Agreement 1 - Agreement deed between beneficiary and Fisheries Department",
+    "Date of Birth Certificate - Voting Card/Birth Certificate/Aadhar Card/Matriculation Certificate",
+    "Caste Certificate - Caste Certificate from first class Magistrate (Tehsildar)",
+    "Training Certificate of the Beneficiary",
+    "Land Record - Land record from Tehsil (Own Land-Jamabandi, Nakal Akshizra, Farad) or registered lease deed of minimum 7 years",
+    "Bills/Receipts/Vouchers",
+    "Photographs of three wheeler with Ice-Box with beneficiary",
+    "Detail of Bank Account and Pan Card",
+    "Detailed Project Report (DPR)/ Self Contained Proposal (SCP) as per PMMSY guidelines",
+    "Driving Licence of the beneficiary/driver and Insurance of vehicle"
+  ],
+  "metadata": {
+    "min_age": 0,
+    "max_income": 99999999,
+    "state": "Haryana",
+    "beneficiary_type": "General"
+  },
+  "source_url": "https://www.myscheme.gov.in/schemes/twibierfv"
+}

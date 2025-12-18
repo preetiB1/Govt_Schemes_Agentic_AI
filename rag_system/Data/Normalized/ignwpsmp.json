@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Indira Gandhi National Widow Pension Scheme-Madhya Pradesh",
+  "description": "A Centrally Sponsored Scheme providing financial support to widows of Madhya Pradesh whose household is below the poverty line.",
+  "benefits": [
+    "The beneficiary will get a monthly pension of ₹ 600/-."
+  ],
+  "eligibility": [
+    "The applicant should be a domicile of the state of Madhya Pradesh.",
+    "The applicant should be from a Below Poverty Line (BPL) family.",
+    "The application should be aged between 40 to 79 years."
+  ],
+  "documents": [
+    "Three photos of applicant.",
+    "Husband's death certificate.",
+    "B.P.L. card.",
+    "Certificate to confirm age."
+  ],
+  "metadata": {
+    "min_age": 40,
+    "max_income": 99999999,
+    "state": "Madhya Pradesh",
+    "beneficiary_type": "Woman"
+  },
+  "source_url": "https://www.myscheme.gov.in/schemes/ignwpsmp"
+}

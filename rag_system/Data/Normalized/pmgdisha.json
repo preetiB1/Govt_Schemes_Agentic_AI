@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Pradhan Mantri Gramin Digital Saksharta Abhiyaan",
+  "description": "A Digital Literacy Scheme by the Ministry of Electronics and Information Technology (MeitY), to make six crore persons in rural areas, across States/UTs, are digitally literate, reaching around 40% of rural households by covering one member from every eligible household.",
+  "benefits": [
+    "The Scheme is aimed at empowering the citizens in rural areas by training them to operate computers or digital access devices (like tablets, smartphones, etc.), send and receive e-mails, browse the Internet, access government services, search for information, and undertake digital payment, etc. and hence enable them to use the Information Technology and related applications, especially Digital Payments to actively participate in the process of nation building.",
+    "On average a target of 200-300 beneficiaries per Gram Panchayat is envisaged. The actual target for the Gram Panchayat would be decided by the District eGovernance Society (DEGs) chaired by the District Magistrate, keeping in view the size of the district, population, local requirements, etc.",
+    "Attempts shall be made to provide full Digital Literacy to the villages covered under Pradhan Mantri Adarsh Gram Yojana.",
+    "Setting up of the Training Centres in the identified Districts/ Blocks/ Gram Panchayats.",
+    "Delivery of content through mobile phones is proposed as a supplementary facility that can be accessed by a large number of neo-IT literates to refresh content learned during the physical training mode."
+  ],
+  "eligibility": [
+    "The beneficiary should be Digitally Illiterate",
+    "Only one person in a household where none of the family members is digitally literate will be considered.",
+    "The age of the beneficiary should be between 14 years and 60 years."
+  ],
+  "documents": [
+    "Aadhaar Number",
+    "Proof of Age / DOB"
+  ],
+  "metadata": {
+    "min_age": 14,
+    "max_income": 99999999,
+    "state": "Central",
+    "beneficiary_type": "General"
+  },
+  "source_url": "https://www.myscheme.gov.in/schemes/pmgdisha"
+}

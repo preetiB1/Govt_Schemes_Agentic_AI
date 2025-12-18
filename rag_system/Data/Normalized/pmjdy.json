@@ -1,0 +1,35 @@
+{
+  "scheme_name": "Pradhan Mantri Jan Dhan Yojana",
+  "description": "A scheme to promote financial inclusion by providing access to banking services.",
+  "benefits": [
+    "Free Rupay Debit Card with accidental insurance cover (Rs.2 lakh, Rs 1 lakh for accounts opened before 28.08.2018)",
+    "Overdraft facility (SBOD) upto Rs. 10,000/- for eligible account holders",
+    "Mobile banking facility",
+    "Zero balance account",
+    "No account opening fees",
+    "Loan facility available",
+    "Access to PoS machines for cashless purchases"
+  ],
+  "eligibility": [
+    "Open to all Indian residents",
+    "Minors are eligible to open accounts under guardianship",
+    "Illiterate individuals are eligible",
+    "Individuals without Officially Valid Documents (OVDs) can open 'Small Accounts'",
+    "One person can have only one PMJDY Account"
+  ],
+  "documents": [
+    "AADHAAR",
+    "Government ID proofs (Voter Card/PAN Card/Ration card)",
+    "Permanent Address proof (Passport/Driving License/Electricity Bill/Telephone Bill/Water Bill)",
+    "Passport size photograph",
+    "Filled and Signed PMJDY Account opening form",
+    "Any other document as notified by the Central Government"
+  ],
+  "metadata": {
+    "min_age": 0,
+    "max_income": 99999999,
+    "state": "Central",
+    "beneficiary_type": "General"
+  },
+  "source_url": "https://www.myscheme.gov.in/schemes/pmjdy"
+}

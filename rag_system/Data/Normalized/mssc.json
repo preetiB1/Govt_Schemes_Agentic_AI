@@ -1,0 +1,36 @@
+{
+  "scheme_name": "Mahila Samman Savings Certificate",
+  "description": "The scheme “Mahila Samman Savings Certificate” was launched by the Department of Economic Affairs, Ministry of Finance to provide financial security to every girl and woman in India.",
+  "benefits": [
+    "Provides attractive and secured investment options to all girls and women.",
+    "Offers an attractive and fixed interest of 7.5% interest compounded quarterly with flexible investment and partial withdrawal options with a maximum ceiling of ₹2,00,000/-.",
+    "The tenure of the scheme is two years.",
+    "Interest shall be compounded on a quarterly basis and credited to the account."
+  ],
+  "eligibility": [
+    "The applicants must have Indian citizenship.",
+    "This scheme is only for women and girl children.",
+    "Any Individual Woman can apply under the scheme.",
+    "The minor account can also be opened by the guardian.",
+    "There is no upper age limit and women of all ages can avail the benefits of this scheme."
+  ],
+  "documents": [
+    "Passport size photograph",
+    "Proof of age, i.e. Birth Certificate",
+    "Aadhaar Card",
+    "PAN Card",
+    "Pay-in-Slip along with deposit amount or cheque",
+    "Passport",
+    "Driving license",
+    "Voter’s ID card",
+    "Job card issued by NREGA signed by the State Government officer",
+    "Letter issued by the National Population Register containing details of name and address"
+  ],
+  "metadata": {
+    "min_age": 0,
+    "max_income": 99999999,
+    "state": "Central",
+    "beneficiary_type": "Woman"
+  },
+  "source_url": "https://www.myscheme.gov.in/schemes/mssc"
+}

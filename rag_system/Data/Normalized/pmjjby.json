@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Pradhan Mantri Jeevan Jyoti Bima Yojana",
+  "description": "An insurance scheme offering life insurance cover for death due to any reason. It is a one-year cover, renewable from year to year.",
+  "benefits": [
+    "PMJJBY offers one- year term life cover of ₹ 2.00 Lakh to all the subscribers in the age group of 18-50 years.",
+    "It covers death due to any reason.",
+    "Premium payable is ₹ 436/- per annum per subscriber, to be auto debited from the subscriber’s bank/post office account."
+  ],
+  "eligibility": [
+    "The age of the applicant must be between 18 to 50 Years.",
+    "The applicant must hold an individual bank / post office account."
+  ],
+  "documents": [],
+  "metadata": {
+    "min_age": 18,
+    "max_income": 99999999,
+    "state": "Central",
+    "beneficiary_type": "General"
+  },
+  "source_url": "https://www.myscheme.gov.in/schemes/pmjjby"
+}

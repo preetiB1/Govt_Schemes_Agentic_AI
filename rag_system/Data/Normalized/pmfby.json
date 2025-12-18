@@ -1,0 +1,34 @@
+{
+  "scheme_name": "Pradhan Mantri Fasal Bima Yojna (PMFBY)",
+  "description": "PMFBY aims to provide financial protection to farmers against crop loss due to natural disasters (hail, drought, famine), pests, and diseases. PMFBY provides crop insurance at a cost-effective premium to all Indian farmers.",
+  "benefits": [
+    "Affordable Premiums:The maximum premium payable by the farmer will be 2% for the Kharif food and oilseed crops. For rabi food and oilseeds crop, it is 1.5% and for yearly commercial or horticultural crops it will be 5%. The remaining premium is subsidized by the government.",
+    "For the farmers in North-Eastern States, Jammu, Kashmir, and Himachal Pradesh, the government also pays the entire premium.",
+    "Comprehensive Coverage: The scheme covers natural disasters (droughts, floods), pests, and diseases. Post-harvest losses due to local risks like hailstorms and landslides are also included.",
+    "Timely Compensation: PMFBY aims to process claims within two months of the harvest to ensure that farmers get the compensation quickly, preventing them from falling into debt traps.",
+    "Technology-Driven Implementation: PMFBY integrates advanced technologies like satellite imaging, drones, and mobile apps for precise estimation of crop loss, ensuring accurate claim settlements."
+  ],
+  "eligibility": [
+    "All farmers, including tenant farmers and sharecroppers growing notified crops in notified areas.",
+    "Farmers must have an insurable interest in the insured crops.",
+    "Farmers must possess a valid and authenticated land ownership certificate or a valid land tenure agreement.",
+    "The farmer must be a cultivator or sharecropper on the insured land.",
+    "The farmer must apply for insurance coverage within the prescribed time frame, usually within 2 weeks of the start of the sowing season.",
+    "Farmers must not have received compensation for the same crop loss from any other medium or source."
+  ],
+  "documents": [
+    "Passport–sized Photograph",
+    "Passbook",
+    "Identity Proof (Aadhaar Card/PAN Card/Voter ID/Bank Passbook with Photo, Kisan Photo Book/NREGA Job Card)",
+    "Address Proof (Aadhaar Card/PAN Card/Voter ID/Electricity Bill/Bank Passbook with Photo).",
+    "Evidence of Land records, as per the State Records of Right (RoR), Land Possession Certificate (LPC), and other applicable agreements, contracts notified or permitted by the state.",
+    "Declaration about the crop sown/intended to be sown."
+  ],
+  "metadata": {
+    "min_age": 0,
+    "max_income": 99999999,
+    "state": "Central",
+    "beneficiary_type": "Farmer"
+  },
+  "source_url": "https://www.myscheme.gov.in/schemes/pmfby"
+}

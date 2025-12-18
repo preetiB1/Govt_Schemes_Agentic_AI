@@ -1,0 +1,40 @@
+{
+  "scheme_name": "Prime Minister's Scholarship Scheme for the Wards/Widows of Central Police Force Personnel",
+  "description": "The scheme encourages higher technical and professional education for the wards of widows and ex-CPFs personnel. It was introduced by the Ministry of Home Affairs, Government of India in the Academic year 2006-07.",
+  "benefits": [
+    "₹1250/- per month for boys",
+    "₹1500/- per month for girls",
+    "Duration of the scholarship: Two to five years as approved by the concerned regulatory body for the programme."
+  ],
+  "eligibility": [
+    "Wards and widows of CPFs personnel died in harness.",
+    "Wards of ex-CPFs personnel disabled while on duty.",
+    "Wards of ex-CPFs personnel in receipt of Gallantry Awards.",
+    "Wards & widows of Ex-CPFs/in-service personnel (Below Officer Rank i.e. up to the rank of Subedar Major /Inspector only).",
+    "At least 60% marks at the 10+2 level for the initial sanction.",
+    "For renewal in subsequent years, 50% marks each year is mandatory."
+  ],
+  "documents": [
+    "An Attested photocopy of matriculation or equivalent examination certificate for verification of date of birth.",
+    "An Attested photocopy of the mark sheet of 10 + 2/equivalent examination.",
+    "In the case of MBA/MCA applicants, an attested copy of the minimum entry qualification certificate.",
+    "Bonafide studentship certificate to be issued by Registrar/Dean/Principal of College/Institution pertaining to the particular course for which scholarship is claimed.",
+    "Attested photocopy of the previous academic year’s mark sheet for the continuation of the scholarship.",
+    "Certificate in original from College/Institution that the applicant has not dropped in any year of the course.",
+    "Certificate from College/Institute that the Institution is approved by AICTE/MCI etc. or as the case may be.",
+    "Attested copy of discharge certificate / I-card issued by the unit commander of the concerned force as proof of ex-CPF personnel.",
+    "Copy of PPO (Special Family Pension in case of widows & Special Family Pension/Liberalized Family Pension order in case of widows of service personnel where the death of the individual is attributable to government services).",
+    "Attested Copy of relationship/dependency certificate.",
+    "Copy of death certificate of Ex-CPFs personnel wherever applicable.",
+    "Declaration cum pre-receipt (in original) duly signed by the recipient on one rupee revenue stamp.",
+    "In the case of the ward of in-service personnel (PBOR) necessary certificate from the concerned unit commandant.",
+    "Disability certificate in case of ward of disabled personnel duly certified by the competent authority."
+  ],
+  "metadata": {
+    "min_age": 0,
+    "max_income": 99999999,
+    "state": "Central",
+    "beneficiary_type": "General"
+  },
+  "source_url": "https://www.myscheme.gov.in/schemes/pmsswwcpfp"
+}

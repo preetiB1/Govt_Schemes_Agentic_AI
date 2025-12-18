@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Award of Pre-matric Scholarship to the Students Whose Parents Are Engaged in Unclean Occupation",
+  "description": "The scheme provides scholarships to the students whose parents are engaged in unclean occupation (scavenger, Flayers & Tarner) to improve the status of the unprivileged society. The scheme provides scholarships irrespective of income and caste.",
+  "benefits": [
+    "₹1850/- per annum."
+  ],
+  "eligibility": [
+    "The applicant should be from a Scheduled Caste.",
+    "The applicant should be a Student.",
+    "The applicant should be studying in Class 1st to Class 10th.",
+    "The applicant should be a Native/Resident of the Union Territory of Puducherry.",
+    "Either or both the parents of the applicant should be engaged in unclean occupation (Scavenger/ Flayer/ Tarner)."
+  ],
+  "documents": [
+    "Residence-cum-nativity Certificate, issued by the competent authority.",
+    "Recent Passport-Size Photograph.",
+    "Aadhaar Card.",
+    "Bank Passbook.",
+    "Certificate of Unclean Occupation Obtained From the Employer by the Parent/s.",
+    "Educational Certificate/s."
+  ],
+  "metadata": {
+    "min_age": 6,
+    "max_income": 99999999,
+    "state": "Puducherry",
+    "beneficiary_type": "Student"
+  },
+  "source_url": "https://www.myscheme.gov.in/schemes/apmsspeuo"
+}

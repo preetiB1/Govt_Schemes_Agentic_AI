@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Maintenance of Horti Hubs",
+  "description": "The scheme ‘Maintenance of Horti Hubs” was launched by the Department of Agriculture & Farmers’ Welfare, Government of Meghalaya to procure good quality disease-free and commercially accepted varieties of the identified flowers & multiply and to serve as a demonstration cum training ground for those who are interested in Floriculture and who intend to make this as their means of livelihood.",
+  "benefits": [
+    "Organizing demonstration cum training on hi-tech floriculture for farmers who are interested in floriculture",
+    "Renovation/repairing of old hubs"
+  ],
+  "eligibility": [
+    "The applicants should be a permanent resident of Meghalaya.",
+    "The applicant should be a bonafide farmer engaged in agriculture.",
+    "The applicant/farmer should own or lease land of at least 0.2 hectares or more."
+  ],
+  "documents": [
+    "Passport-size photograph",
+    "Identity Proof",
+    "Bank passbook/account details",
+    "Documents proof of possessing own or leased land",
+    "Any other document as required"
+  ],
+  "metadata": {
+    "min_age": 0,
+    "max_income": 99999999,
+    "state": "Meghalaya",
+    "beneficiary_type": "Farmer"
+  },
+  "source_url": "https://www.myscheme.gov.in/schemes/mhh"
+}

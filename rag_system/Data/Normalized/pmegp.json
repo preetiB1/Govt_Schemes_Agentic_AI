@@ -1,0 +1,47 @@
+{
+  "scheme_name": "Prime Minister's Employment Generation Programme",
+  "description": "Launched in August 2008, the Prime Minister's Employment Generation Programme (PMEGP) is a credit-linked subsidy scheme administered by the Ministry of Micro, Small and Medium Enterprises (MSME). It aims to generate employment opportunities by establishing micro-enterprises in the non-farm sector in both rural and urban areas. The scheme has been approved for continuation from 2021-22 to 2025-26, with an outlay of ₹13,554.42 Crore to set up approximately 400,000 projects and create 3,000,000 employment opportunities. It also includes the upgradation of 1,000 units annually. PMEGP was formed by merging the Prime Minister's Rojgar Yojana (PMRY) and Rural Employment Generation Programme (REGP).",
+  "benefits": [
+    "Margin Money Subsidy for setting up new micro-enterprises/units.",
+    "Margin Money Subsidy for the upgradation of existing PMEGP/REGP/MUDRA units.",
+    "Backward and Forward Linkages funds for awareness camps, monitoring, workshops, EDP training, physical verification, IT infrastructure, and other related activities.",
+    "For new enterprises (General Category): 10% beneficiary contribution, 15% subsidy for urban areas, 25% for rural areas.",
+    "For new enterprises (Special Category including SC, ST, OBC, Minorities, Women, Ex-Servicemen, Transgenders, Differently abled, NER, Aspirational Districts, Hill and Border areas): 5% beneficiary contribution, 25% subsidy for urban areas, 35% for rural areas.",
+    "Maximum project cost for new manufacturing units admissible for Margin Money subsidy: ₹50,00,000.",
+    "Maximum project cost for new business/service units admissible for Margin Money subsidy: ₹20,00,000.",
+    "For 2nd Loan for Upgradation of Existing PMEGP / REGP / MUDRA Units (All Categories): 10% beneficiary contribution, 15% subsidy (20% in NER and Hill States).",
+    "Maximum project cost for upgradation of manufacturing units admissible for Margin Money subsidy: ₹10,00,00,000 (maximum subsidy ₹15,00,000, or ₹20,00,000 for NER and Hill States).",
+    "Maximum project cost for upgradation of business/service units admissible for Margin Money subsidy: ₹25,00,000 (maximum subsidy ₹3,75,000, or ₹5,00,000 for NER and Hill States).",
+    "The balance amount (excluding own contribution) of the total project cost will be provided by Banks."
+  ],
+  "eligibility": [
+    "For new enterprises (Units): Any individual, above 18 years of age.",
+    "There is no income ceiling for assistance in setting up projects under PMEGP.",
+    "For projects costing above ₹10 lakh in the Manufacturing sector and above ₹5,00,000 in the Business/Service sector, beneficiaries must possess at least VIII standard pass educational qualification.",
+    "Assistance is available only for new projects sanctioned specifically under the PMEGP.",
+    "Existing Units (under PMRY, REGP, or any other Government scheme) and units that have already availed Government Subsidy are not eligible.",
+    "Only one person from one family (including self and spouse) is eligible for financial assistance for setting up projects under PMEGP.",
+    "For up-gradation of existing PMEGP/REGP/MUDRA units: Margin Money (subsidy) claimed under PMEGP must be successfully adjusted upon completion of the 3-year lock-in period.",
+    "The first loan under PMEGP/REGP/MUDRA must be successfully repaid in the stipulated time.",
+    "The unit must be profit-making with good turnover and potential for further growth through modernization/upgrading of technology.",
+    "Priority will be given to persons affected by natural calamities/disasters in areas declared as affected by \"disaster\" by the Ministry of Home Affairs.",
+    "Activities related to slaughtered meat processing/canning/serving, production/sale of intoxicant items (Beedi/Pan/Cigar/Cigarette, liquor, tobacco, toddy tapping) are not permitted.",
+    "Activities related to cultivation of crops/plantation (Tea, Coffee, Rubber, Sericulture, Horticulture, Floriculture, Animal Husbandry) are not permitted, though value addition and off-farm/farm-linked activities are allowed.",
+    "Activities prohibited by Local Government/Authorities due to environmental or socio-economic factors are not permitted."
+  ],
+  "documents": [
+    "Caste Certificate",
+    "Special Category Certificate (wherever required)",
+    "Rural Area Certificate",
+    "Project Report",
+    "Education / EDP / Skill Development Training Certificate",
+    "Any other applicable document"
+  ],
+  "metadata": {
+    "min_age": 18,
+    "max_income": 99999999,
+    "state": "Central",
+    "beneficiary_type": "General"
+  },
+  "source_url": "https://www.myscheme.gov.in/schemes/pmegp"
+}

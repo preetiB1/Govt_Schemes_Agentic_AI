@@ -1,0 +1,34 @@
+{
+  "scheme_name": "Pradhan Mantri Uchchatar Shiksha Protsahan Yojana: Central Sector Interest Subsidy Scheme",
+  "description": "The “Pradhan Mantri Uchchatar Shiksha Protsahan Yojana: Central Sector Interest Subsidy Scheme” was launched by the Ministry of Education, Government of India in 2009. It provides full interest subsidy during the moratorium period on education loans availed under the Model Education Loan Scheme of the Indian Banks’ Association (IBA) to students from economically weaker sections whose annual parental income is up to ₹4.5 Lakhs. The subsidy is for pursuing higher education in professional/technical courses only from NAAC accredited Institutions or professional/technical programmes accredited by NBA or Institutions of National Importance or Centrally Funded Technical Institutions (CFTIs) in India. Canara Bank is the Nodal Bank for the scheme's implementation.",
+  "benefits": [
+    "Interest subsidy on education loans is provided for a maximum amount of ₹10 lakhs (even if the sanctioned loan is higher, subsidy is capped at ₹10 lakhs).",
+    "No collateral security or third-party guarantee is required for Education Loans sanctioned up to ₹7.5 lakhs, provided this part of the loan is covered under the Credit Guarantee Fund Scheme for Education Loan (CGFSEL).",
+    "The interest subsidy is allowed for pursuing higher education in professional/technical courses only from NAAC accredited Institutions or professional/technical programmes accredited by NBA or Institutions of National Importance or Centrally Funded Technical Institutions (CFTIs) in India.",
+    "The Government of India bears the interest for the moratorium period (Course Period plus one year) at a simple rate, provided the student successfully completes the course."
+  ],
+  "eligibility": [
+    "Education Loans must be taken under the IBA Model Education Loan Scheme.",
+    "Students must belong to economically weaker sections with a gross parental/family income up to ₹4.5 lakhs per annum from all sources.",
+    "Students must be enrolled in professional/technical courses only from NAAC accredited Institutions or professional/technical programmes accredited by NBA or Institutions of National Importance or Central Funded Technical Institutions (CFTIs). Professional Institutions/programmes not under NAAC or NBA require approval of their respective regulatory body.",
+    "Admissible only once either for Undergraduate or Post Graduate degree courses, or for Integrated Courses (Graduate + Post Graduate).",
+    "Students availing any other Central/State Government Scholarship or Fee reimbursement are not eligible.",
+    "Interest Subsidy is not available to students who discontinue their course midstream or are expelled, unless discontinuation is due to medical grounds with necessary documentation."
+  ],
+  "documents": [
+    "Identity proof (e.g., Aadhaar Card)",
+    "PAN Card",
+    "Income proof (Issued by Competent Authority)",
+    "Educational Certificates",
+    "Proof of admission to the course",
+    "Bank account details",
+    "Any other documents, as required by the bank"
+  ],
+  "metadata": {
+    "min_age": 0,
+    "max_income": 450000,
+    "state": "Central",
+    "beneficiary_type": "Student"
+  },
+  "source_url": "https://www.myscheme.gov.in/schemes/pm-uspycsiss"
+}

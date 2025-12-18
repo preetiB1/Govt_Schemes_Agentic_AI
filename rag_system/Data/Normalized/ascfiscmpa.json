@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Assistance to Scheduled Caste Farmers for Installation of Submersible / Centrifugal Motor Pumpsets With Accessories",
+  "description": "Through this scheme, the farmers from the Scheduled Caste Category are provided with a grant of 90% subsidy towards the installation of suitable Submersible / Centrifugal motor pump sets with accessories, subject to a maximum of ₹60,000/‐ per tubewell per individual.",
+  "benefits": [
+    "90% subsidy towards the installation of suitable Submersible / Centrifugal motor pump sets with accessories, subject to a maximum of ₹60,000/‐ per tubewell per individual."
+  ],
+  "eligibility": [
+    "The applicant should be from the Scheduled Caste Category.",
+    "The applicant should be a farmer in the Union Territory of Puducherry.",
+    "The tubewell in which the submersible/centrifugal motor pump sets is going to be erect and should have been registered in Pondicherry Ground Water Authority, Puducherry.",
+    "The applicant should hold a minimum of 1.5 acres of land under the command area of the tubewell to be constructed and the applicant should have ownership of the land at least for 2 years and should have a clear ownership title deed in his/her name. The eligible land holding of 1.5 acres should be in favour of the applicant farmer or in favour of the spouse or favour of the member of a joint/undivided family.",
+    "The farmers who have already availed themselves of the subsidy for the said purpose within 5 years are not entitled to any benefit under this scheme.",
+    "The applicant should not convert the lands for a maximum period of 10 years from the date of construction of the tubewell/filter point to any purpose other than agriculture and should execute a bond accordingly."
+  ],
+  "documents": [
+    "The Nationality, Nativity, Caste Certificate and a Certificate issued by an officer not below the rank of the Deputy Tahsildar.",
+    "The certificate for the ownership of the land issued by an officer, not below the rank of Deputy Tahsildar.",
+    "The copy of the Registration certificate, Permit and Energisation Certificate issued by the Pondicherry Ground Water Authority, Puducherry",
+    "Original bills for the expenses incurred towards the construction of the tubewell (or) in case of those who have availed themselves of a Bank loan, attested copy of the original bills, and certificate from the Bank to that effect.",
+    "Copy of the Aadhaar card, Farmers Identity Card, and Bank passbook front page."
+  ],
+  "metadata": {
+    "min_age": 0,
+    "max_income": 99999999,
+    "state": "Puducherry",
+    "beneficiary_type": "Farmer"
+  },
+  "source_url": "https://www.myscheme.gov.in/schemes/ascfiscmpa"
+}

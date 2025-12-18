@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Safai Karmakar Bahay Rogi Chikitsa Sahayata Yojana",
+  "description": "Financial Assistance scheme for unorganized workers in Chhattisgarh State to empower them by providing required financial assistance for medical situations.",
+  "benefits": [
+    "Medical assistance up to Rs. 2,000/- in a year."
+  ],
+  "eligibility": [
+    "Safai Worker must be registered Unorganized worker of State Social Security Board.",
+    "Safai worker must be between 18 to 60 years.",
+    "Family members details must be mentioned in the registration card.",
+    "Benefits will be provided only safai worker and their family members (husband, wife, son and daughter) mentioned in the registration card.",
+    "The benefit of the scheme will be available only up to two children.",
+    "If the benefit of the scheme is being received from any other parallel scheme of the State Government, then the benefit of this scheme will not be available."
+  ],
+  "documents": [
+    "Aadhar card.",
+    "Labor registration Card.",
+    "Permanent Residence Certificate.",
+    "Copy of ration card."
+  ],
+  "metadata": {
+    "min_age": 18,
+    "max_income": 99999999,
+    "state": "Chhattisgarh",
+    "beneficiary_type": "General"
+  },
+  "source_url": "https://www.myscheme.gov.in/schemes/skbrcsy"
+}

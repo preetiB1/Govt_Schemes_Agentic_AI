@@ -1,0 +1,50 @@
+{
+  "scheme_name": "Pradhan Mantri Formalisation Of Micro Food Processing Enterprises",
+  "description": "A Centrally Sponsored Scheme by the Ministry of Food Processing Industries, designed to address the challenges faced by the micro-enterprises and to tap the potential of groups and cooperatives in supporting the upgradation and formalization of these enterprises.",
+  "benefits": [
+    "Support to individuals and groups of micro-enterprises.",
+    "Branding and Marketing support.",
+    "Support for strengthening of institutions.",
+    "Setting up a robust project management framework.",
+    "Credit-linked capital subsidy @35% of the eligible project cost with a maximum ceiling of ₹ 10,00,000 per unit for individual micro food processing units.",
+    "Grant @35% with credit linkage for Farmer Producer Organizations (FPOs) and Producer Cooperatives.",
+    "Seed capital @ Rs40,000/- per member of SHG for working capital and purchase of small tools for Self-Help Groups (SHGs)."
+  ],
+  "eligibility": [
+    "Farmer Producer Organization (FPO)",
+    "Self-Help Groups",
+    "Co-operatives",
+    "Existing Micro Food Processing Entrepreneurs",
+    "New Units for individuals or groups (only for One District One Product - ODOP)",
+    "Existing micro food processing units in operations.",
+    "The enterprise should be unincorporated and should employ less than 10 workers.",
+    "The enterprise should preferably be involved in the product identified in the ODOP of the district.",
+    "Applicant should have ownership rights of the enterprise.",
+    "Applicant should be above 18 years of age and should possess at least VIII standard pass educational qualification.",
+    "Only one person from one family would be eligible for obtaining financial assistance (family includes self, spouse, and children)."
+  ],
+  "documents": [
+    "PAN Card of concern/all promoters",
+    "Aadhaar Copy & Photo of all promoters/guarantors",
+    "Address Proof (Utility bill, Property tax receipt, Ration Card)",
+    "Photocopy of Bank Statement/ Bank Passbook for the last 6 months",
+    "Udhayam Registration Certificate/ IE code/ Licenses (Trade License/Shop & Establishment Registration/Panchayat License/Corporation License/Municipality License)",
+    "Business Partnership Agreement (if applicable)",
+    "Audited balance sheet with annexures (for existing enterprises)",
+    "Copy of License as per industry (Eg. FSSAI, Pollution Clearance, ESI etc)",
+    "GSTIN Registration Certificate",
+    "GST returns",
+    "List of existing machinery and equipment",
+    "Photo of the Existing unit",
+    "DPR (Detailed Project Report)",
+    "Resolution copy signed by all the members of SHG to avail loans (for SHGs)",
+    "Estimates and Quotation of all capital machineries and equipment"
+  ],
+  "metadata": {
+    "min_age": 18,
+    "max_income": 99999999,
+    "state": "Central",
+    "beneficiary_type": "General"
+  },
+  "source_url": "https://www.myscheme.gov.in/schemes/pmfmpe"
+}

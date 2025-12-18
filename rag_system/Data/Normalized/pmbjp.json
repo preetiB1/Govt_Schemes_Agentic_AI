@@ -1,0 +1,43 @@
+{
+  "scheme_name": "Pradhan Mantri Bhartiya Janaushadhi Pariyojana",
+  "description": "The scheme aims to make quality generic medicines available at affordable prices to all, especially the poor and the deprived. It operates through dedicated outlets called Janaushadhi Kendras.",
+  "benefits": [
+    "Prices of Janaushadhi medicines are 50%–90% less than those of branded medicines.",
+    "Medicines are procured only from World Health Organization-Good Manufacturing Practices (WHO-GMP)-certified suppliers.",
+    "Each batch of the drug is tested at laboratories accredited by the ‘National Accreditation Board for Testing and Calibration Laboratories (NABL).",
+    "Operating agency gets a 20% margin on the MRP (excluding taxes).",
+    "Normal Incentive: Incentive provided to Kendra owners has been enhanced to up to ₹ 5,00,000/- per month.",
+    "Special Incentive: A one-time incentive of ₹ 2,00,000/- is provided for furniture & fixtures and computers & printers to Kendras opened in specific areas or by certain entrepreneurs.",
+    "Janaushadhi Suvidha Sanitary Napkins are available at Re.1/- per pad."
+  ],
+  "eligibility": [
+    "Individual applicants must have a D. Pharma/B. Pharma degree, or employ holders of these degrees.",
+    "Organizations/NGOs applying must employ B. Pharma / D. Pharma degree holders.",
+    "In government hospital premises, NGOs/Charitable organizations are preferred, but individuals are also eligible."
+  ],
+  "documents": [
+    "Own space or hired space (minimum 120 sq feet) with supporting documents.",
+    "Proof of securing a pharmacist with registration details.",
+    "Financial capacity documents (ITR, Bank Statement, PAN/Aadhar).",
+    "Sale License / Retail Drug License.",
+    "Drug License in the name of “Pradhan Mantri Janaushadhi Kendra”.",
+    "Aadhaar Card (for individual applicants).",
+    "Pan card (for individual applicants).",
+    "Certificate of SC/ST or Divyang (PWD) (if applicable).",
+    "Pharmacist Registration Certification.",
+    "ITR for the last two years.",
+    "Bank statement for the last 6 months.",
+    "Declaration for GST registration.",
+    "Undertaking (as applicable).",
+    "Darpan ID (for NGOs).",
+    "Registration certificate (for organizations).",
+    "Details of the Department that has allocated the space (for government agencies)."
+  ],
+  "metadata": {
+    "min_age": 0,
+    "max_income": 99999999,
+    "state": "Central",
+    "beneficiary_type": "General"
+  },
+  "source_url": "https://www.myscheme.gov.in/schemes/pmbjp"
+}

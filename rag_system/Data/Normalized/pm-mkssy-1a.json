@@ -1,0 +1,36 @@
+{
+  "scheme_name": "Pradhan Mantri Matsya Kisan Samridhi Sah-yojana (PM-MKSSY): COMPONENT 1A: Formalization of Fisheries Sector and Facilitating Access of Fisheries Microenterprises to Government of India Programs for Working Capital Financing",
+  "description": "The scheme aims to formalise the fisheries sector and facilitate access to institutional finance for fisheries-based microenterprises. The scheme provides small grants to formalised fisheries microenterprises and support through credit intermediaries.",
+  "benefits": [
+    "The financial assistance is provided in the form of activity-based small grants to support engagement in fisheries and aquaculture-related enterprises.",
+    "The financial assistance is disbursed directly to the verified bank accounts of the beneficiaries through the Direct Benefit Transfer (DBT) mechanism, ensuring transparency and timely credit.",
+    "These grants are non-repayable, and are linked to the scale, nature, and viability of the proposed fisheries-related activities.",
+    "In addition to financial support, beneficiaries also receive facilitation services through designated Credit Intermediaries, who provide handholding support for loan application preparation, documentation, follow-up with banks, and credit linkage.",
+    "The scheme further ensures that capacity building and training interventions are extended to beneficiaries to help them navigate institutional financing systems."
+  ],
+  "eligibility": [
+    "The applicant must be a fisheries microenterprise or individual operating in the fisheries/aquaculture value chain.",
+    "The applicant must be registered on the National Fisheries Digital Platform (NFDP).",
+    "The applicant must have a valid bank account linked with Aadhaar.",
+    "The applicant must require institutional credit for fisheries-related activities.",
+    "The applicant must submit the required documentation through the online portal.",
+    "The applicant must agree to verification and validation processes as stipulated by the Department of Fisheries."
+  ],
+  "documents": [
+    "Aadhaar Card (Identity Proof)",
+    "Bank Account Passbook or Statement (For Direct Benefit Transfer)",
+    "Depository Account Statement (For disbursement of incentive amount)",
+    "Registration Proof on National Fisheries Digital Platform (NFDP)",
+    "Project Proposal or Activity Plan (Indicating credit need)",
+    "Self-Declaration Form (Format prescribed by the Department)",
+    "Income Certificate (Where applicable)",
+    "Any Other Document as requested by implementing authority during validation"
+  ],
+  "metadata": {
+    "min_age": 0,
+    "max_income": 99999999,
+    "state": "Central",
+    "beneficiary_type": "General"
+  },
+  "source_url": "https://www.myscheme.gov.in/schemes/pm-mkssy-1a"
+}

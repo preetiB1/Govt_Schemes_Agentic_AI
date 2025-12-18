@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Prime Minister’s Fellowship for Doctoral Research",
+  "description": "A prestigious initiative by the Science and Engineering Research Board, Department of Science & Technology, Government of India, aimed at advancing university research in line with industry requirements. It encourages full-time PhD scholars to pursue industry-relevant research in focus areas identified by industries and national priorities, fostering industry-academia partnerships.",
+  "benefits": [
+    "Attractive scholarship (double the JRF/SRF fellowship amount)",
+    "Unique and invigorating experience for selected fellows",
+    "Best national and international exposure",
+    "Mentoring through industry and academic experts via annual review meetings",
+    "Periodic mentorship sessions organized with expert external agencies"
+  ],
+  "eligibility": [
+    "Applicant must be a full-time PhD scholar in any recognized Indian university/institute/research laboratory.",
+    "PhD registration date should not be more than 14 months from the date of application submission.",
+    "Applicant must have a valid industry partner willing to financially support and provide guidance/mentorship for the research project.",
+    "The mutually agreed research topic must be innovative, have practical relevance, and industrial application.",
+    "Selected applicant must be willing to work with/in the supporting company as required during the project period.",
+    "Applicant must not draw any other fellowship after selection.",
+    "Applications without an industry partner will not be accepted."
+  ],
+  "documents": [
+    "Required documents and details as specified in Annexure I of the Call for Proposal document (available on the portal).",
+    "Soft copies of all required documents must be uploaded online; no hard copies are needed."
+  ],
+  "metadata": {
+    "min_age": 0,
+    "max_income": 99999999,
+    "state": "Central",
+    "beneficiary_type": "Student"
+  },
+  "source_url": "https://www.myscheme.gov.in/schemes/pmfdr"
+}

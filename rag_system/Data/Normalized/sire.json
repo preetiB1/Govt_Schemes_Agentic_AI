@@ -1,0 +1,38 @@
+{
+  "scheme_name": "SERB International Research Experience",
+  "description": "This Program aims to impart high-end research training in frontier areas of Science and Technology, which are of interest to India by providing an opportunity to visit leading institutions/universities across the globe for a period of 02-06 months.",
+  "benefits": [
+    "The selected fellows will be paid a monthly fellowship amount equivalent to US $ 3000.",
+    "One-time Contingency/Preparatory allowances of ₹75,000/- to cover visa fees, airport transfer charges, insurance, etc.,",
+    "Overseas Medical Insurance in India and abroad of ₹20,000/-.",
+    "The selected fellows will also be provided the shortest route economy class airfare from their place of work in India to the place of the host institute and back."
+  ],
+  "eligibility": [
+    "The scheme is open to Indian nationals only.",
+    "Applicant should have a Ph.D. degree in the area of Science and Engineering from recognized institutions in India.",
+    "The applicant must hold a permanent position in any Indian research and academic institution.",
+    "Applicants having MBBS/MD degrees and Veterinary doctors are also eligible to apply.",
+    "Applicants having a Teachers Associateship for Research Excellence (TARE) award are also eligible to apply.",
+    "Applicant must submit a letter of support from the overseas host institution along with the application.",
+    "The age limit for applying under this scheme shall be 40 years (as of the date of submission of application). Age relaxation of 5 years will be given to applicants belonging to SC/ST/OBC/physically challenged and women categories."
+  ],
+  "documents": [
+    "Passport size photograph",
+    "Bio-data of applicant",
+    "Bio-data of Overseas Host Scientist",
+    "Consent letter from host",
+    "Research Plan",
+    "Plagiarism undertaking",
+    "Certificate from Applicant",
+    "Endorsement Letter from the Head of Institution",
+    "Age Proof Certificate (Class X mark sheet or Birth certificate)",
+    "Category Certificate (In case of Age Relaxation)"
+  ],
+  "metadata": {
+    "min_age": 0,
+    "max_income": 99999999,
+    "state": "Central",
+    "beneficiary_type": "General"
+  },
+  "source_url": "https://www.myscheme.gov.in/schemes/sire"
+}

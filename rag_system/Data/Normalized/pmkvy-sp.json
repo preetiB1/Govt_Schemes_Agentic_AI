@@ -1,0 +1,40 @@
+{
+  "scheme_name": "Pradhan Mantri Kaushal Vikas Yojana - Special Projects",
+  "description": "The Special Projects component of PMKVY provides project-based skilling interventions primarily for marginalized and vulnerable groups, including Scheduled Castes, Tribes, transgender individuals, Persons with Disabilities (PwDs), women, and economically backward people, as well as those from difficult/remote geographies. This component facilitates training in special areas, premises of government/corporate bodies, and in job roles not defined under standard Qualification Packs (QPs)/National Occupational Standards (NOS). It allows for deviations from regular short-term training guidelines to offer innovative strategies, captive placement opportunities, local livelihood through entrepreneurship, and international placements, aiming to enhance the all-round competency of marginalized sections.",
+  "benefits": [
+    "Counselling services, including an online information/counselling platform, a counselling helpline, and district-level skill information centers.",
+    "Training in digital content, soft skills, entrepreneurship, financial and digital literacy.",
+    "Additional support including accidental insurance (Kaushal Bima of Rs. 2 lakhs for 3 years) for certified candidates.",
+    "One-time incentive to all certified candidates.",
+    "Boarding and lodging cost support.",
+    "Conveyance cost support.",
+    "Post Placement Stipend.",
+    "Additional support specifically for PwD candidates.",
+    "Provision of an induction kit and participant handbook.",
+    "Yearly incentive to Training Providers.",
+    "One-time placement travel cost.",
+    "Career progression support.",
+    "Special incentive for foreign placements.",
+    "Post Placement Tracking Allowance.",
+    "Placement assistance.",
+    "Post-training support, including add-on bridge courses and language courses to meet international standards.",
+    "Potential for extended additional services such as conveyance, boarding & lodging, and transportation, beyond the criteria laid down in the Short-Term Training (STT) guidelines of PMKVY 3.0, as approved by the Executive Committee/State Empowered Committee."
+  ],
+  "eligibility": [
+    "Individuals belonging to marginalized or vulnerable groups, such as Scheduled Castes and Tribes, transgender individuals, persons with disabilities, women, economically backward people, or any other category recognized as marginalized/vulnerable by the Government of India and State governments.",
+    "Individuals from difficult/remote geographies or hard-to-reach areas, including Left Wing Extremist (LWE) areas, aspirational districts, J&K, Ladakh, North East states, and Island territories.",
+    "Mandatory possession of an Aadhaar ID during the enrolment process.",
+    "Students must maintain 70% attendance to be eligible to appear in the assessments."
+  ],
+  "documents": [
+    "Documents as required for the specific job role.",
+    "Aadhaar ID."
+  ],
+  "metadata": {
+    "min_age": 0,
+    "max_income": 99999999,
+    "state": "Central",
+    "beneficiary_type": "General"
+  },
+  "source_url": "https://www.myscheme.gov.in/schemes/pmkvy-sp"
+}

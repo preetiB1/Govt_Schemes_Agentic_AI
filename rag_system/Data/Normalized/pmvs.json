@@ -1,0 +1,41 @@
+{
+  "scheme_name": "Pradhan Mantri Vidyalaxmi (PM-Vidyalaxmi) Scheme",
+  "description": "The scheme aims to provide financial support to meritorious students so that financial constraints do not prevent any youth of India from pursuing quality higher education. It provides collateral-free, guarantor-free education loans through a simple, transparent, student-friendly and entirely digital application process, with 3% interest subvention for students from families with annual income up to ₹8,00,000.",
+  "benefits": [
+    "A special loan product of collateral-free and guarantor-free education loans for students admitted to QHEIs.",
+    "The loan amount depends on the course fee and other associated expenses (mess, hostel fee, refundable and non-refundable fees, laptop, living expenses) with no upper limit.",
+    "75% credit guarantee by the Government of India for loan amounts up to ₹7,50,000, irrespective of family income.",
+    "3% interest subvention on loans up to ₹10,00,000 for students with annual family income up to ₹8,00,000 during the moratorium period (course period plus one year).",
+    "Full interest subvention is already offered to students with up to ₹4,50,000 annual family income under PM-USP CSIS for technical/professional courses.",
+    "Interest rate capped at individual bank's Externally Benchmarked Lending Rate (EBLR) + 0.5%.",
+    "Up to 1% additional interest concession if interest is serviced during the study period and the moratorium period.",
+    "Repayment period up to 15 years, excluding moratorium period.",
+    "The interest subvention amount will be credited to PM-VIDYALAXMI DIGITAL RUPEE APP (CBDC WALLET) of the beneficiary and on redemption on the app by the beneficiary, the amount will be transferred to the beneficiary loan account."
+  ],
+  "eligibility": [
+    "The applicant must be an Indian citizen.",
+    "The applicant must get merit-based admission to one of the 860 designated Quality Higher Educational Institutions (QHEIs) in India.",
+    "The applicant must not be admitted through the management quota or a similar quota.",
+    "The applicant must have an annual family income of up to ₹8,00,000 to qualify for 3% interest subvention.",
+    "The applicant must not be receiving any other Central/State Government Scholarship or interest subvention scheme or fee reimbursement.",
+    "The applicant must not discontinue the course midstream or be expelled from the institution on disciplinary or academic grounds.",
+    "The applicant must maintain satisfactory academic performance to receive interest subvention from the 2nd year onwards.",
+    "The applicant can avail interest subvention and credit guarantee benefits only once, either for an undergraduate or postgraduate or integrated course."
+  ],
+  "documents": [
+    "Aadhaar Card",
+    "PAN Card",
+    "Address Proof",
+    "Previous Qualifying Marksheets (Self-attested)",
+    "Entrance Exam Result",
+    "Offer Letter (from the Institution, along with the fee structure)",
+    "Income Certificate (from the designated public authority of the state)"
+  ],
+  "metadata": {
+    "min_age": 0,
+    "max_income": 800000,
+    "state": "Central",
+    "beneficiary_type": "Student"
+  },
+  "source_url": "https://www.myscheme.gov.in/schemes/pmvs"
+}

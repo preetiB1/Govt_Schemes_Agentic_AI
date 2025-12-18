@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Award of Adhoc Merit Grant (Special Incentive) to Scheduled Caste Students",
+  "description": "The scheme is implemented as a sort of encouragement for the Scheduled Caste students who secure 65% or above marks in matriculation/SSLC Board of Examinations. The incentive is given with a view to enable the Scheduled Caste students who intend to pursue their Post-metric studies, to meet the initial expenditure at the time of admission.",
+  "benefits": [
+    "Under this scheme, a one-time cash award of ₹1,000/- will be given to the Scheduled Caste students who secure 65% or above marks in matriculation/SSLC Board of Examinations."
+  ],
+  "eligibility": [
+    "All the students belonging to the Scheduled Caste who secured 65% and above marks in the 10th Standard/Matriculation/SSLC Board of Examination shall be eligible for the award.",
+    "The student should be a permanent resident of the Union Territory of Puducherry by virtue of birth or continuous residence in the Union Territory of Puducherry for not less than five years.",
+    "The student should pursue his/her higher studies in a recognized university/college/institution.",
+    "The grant will be given irrespective of the income limit of the parent/guardian of the students and the age of the students."
+  ],
+  "documents": [
+    "Identity proof i.e. Aadhaar Card",
+    "Passport size photograph",
+    "Educational documents/certificates i.e. Mark sheets",
+    "Caste certificate",
+    "Income certificate",
+    "Residence/Nativity Certificate issued by the Revenue Officials",
+    "Bank Account details"
+  ],
+  "metadata": {
+    "min_age": 0,
+    "max_income": 99999999,
+    "state": "Puducherry",
+    "beneficiary_type": "Student"
+  },
+  "source_url": "https://www.myscheme.gov.in/schemes/aamgsiscs"
+}

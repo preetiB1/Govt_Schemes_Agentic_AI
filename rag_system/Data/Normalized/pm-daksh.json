@@ -1,0 +1,46 @@
+{
+  "scheme_name": "Pradhan Mantri Dakshta Aur Kushalta Sampann Hitgrahi (PM-DAKSH)",
+  "description": "The \"Pradhan Mantri Dakshta Aur Kushalta Sampann Hitgrahi\" (PM-DAKSH) scheme, launched by the Ministry of Social Justice & Empowerment, Government of India in 2020-21, is designed to uplift the marginalized sections of society by offering skill development programs. It targets SCs, OBCs, EWS, DNTs, and Safai Mitras, providing upskilling, reskilling, short-term training, and entrepreneurial development courses. The scheme aims to empower these groups by boosting their skills to improve their employability and income prospects. Training is aligned with the National Skill Qualification Framework (NSQF), and post-training support is provided for employment or self-employment opportunities.",
+  "benefits": [
+    "Training free of cost for the trainees, with 100% grants by Government.",
+    "Stipend will be given to trainees during the period of training.",
+    "Trained candidates will be provided certification after successful completion of training and assessment.",
+    "Trained candidates will be provided placement after assessment and certification.",
+    "For Up-skilling/Re-skilling under Recognition of Prior Learning (RPL) for Safai Mitras: ₹500/- per person stipend towards compensation of wage loss.",
+    "For non-residential Short-Term Courses: ₹1,500/- per month stipend for SC candidates, ₹1,000/- per month for OBCs/EWSs/DNTs, and ₹1,500/- per month for Sanitation Workers including waste pickers and their dependents.",
+    "For residential Short-Term Courses: Boarding and lodging provided; ₹500/- per month stipend for Safai Mitras, Waste Pickers & their dependents."
+  ],
+  "eligibility": [
+    "Applicant must be an Indian national with valid proof of nationality.",
+    "Applicant must be aged between 18 and 45 years.",
+    "Applicant must belong to one of the following groups: Scheduled Castes (SC), Other Backward Classes (OBC), Economically Weaker Sections (EWS), Denotified & Nomadic Tribes (DNT), or Safai Mitras (including Waste Pickers).",
+    "Applicant from OBC or EWS must have an annual family income below ₹3,00,000/-.",
+    "Applicant from SC, DNT, or Safai Mitras (including Waste Pickers) has no income limit.",
+    "Applicant must possess a valid Aadhaar card (exemption for candidates of States which have not implemented Aadhaar completely).",
+    "Applicant must have an Aadhaar-linked bank account.",
+    "Applicant must register on the Skill India Digital Hub (SIDH).",
+    "For Up-skilling/Re-skilling under Recognition of Prior Learning (RPL): Only applicable to Safai Mitras including waste pickers.",
+    "For Short-Term Courses: Most disempowered groups belonging to SC/OBC/EWS/DNT and Sanitation Workers including Waste Pickers and their dependents.",
+    "For Entrepreneurial Development Programmes (EDP): SCs, EWSs, OBCs and DNTs youth who are having an entrepreneurial bent of mind.",
+    "More than 70% of biometric attendance is required for each candidate to appear in the assessment."
+  ],
+  "documents": [
+    "Identity proof i.e. Aadhaar Card",
+    "Passport Size photograph",
+    "Caste/community certificate",
+    "Income certificate, if applicable",
+    "Proof of age",
+    "Residence proof",
+    "Educational Qualification certificates",
+    "Occupation Certificate in case Safai Mitras including waste pickers",
+    "Bank account details/Bank Passbook (Aadhaar linked bank account)",
+    "Any other documents as required"
+  ],
+  "metadata": {
+    "min_age": 18,
+    "max_income": 300000,
+    "state": "Central",
+    "beneficiary_type": "General"
+  },
+  "source_url": "https://www.myscheme.gov.in/schemes/pm-daksh"
+}

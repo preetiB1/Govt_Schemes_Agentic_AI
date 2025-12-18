@@ -1,0 +1,36 @@
+{
+  "scheme_name": "Prime Minister's Scholarship Scheme for Railway Protection Force",
+  "description": "It was introduced to encourage higher technical and professional education for the dependent wards of Ex/Serving RPF/RPSF personnel and widows (below the Rank of Gazetted officer).",
+  "benefits": [
+    "₹2500/- per month for male students",
+    "₹3000/- per month for female students",
+    "Letter from Hon’ble Prime Minister - All applicants selected under the new category will be given a personal letter from Hon’ble Prime Minister in appropriate language.",
+    "Duration of the Scholarship: Two to five years as per the duration of the course."
+  ],
+  "eligibility": [
+    "The dependent wards of Ex/Serving RPF/RPSF personnel and widows (below the Rank of Gazetted officer) are eligible to apply under the scheme.",
+    "Students who have taken regular admission are only eligible for PMSS.",
+    "Students should have secured 60% and above in Minimum Entry Qualification (MEQ) i.e. 12th Std., Diploma/Graduation.",
+    "The scholarship is admissible for only two wards per family and should be ensured by the beneficiaries as well as by the concerned zonal Railways/RPSF.",
+    "Only the institutes/universities/colleges having AISHE regulations will be permissible/eligible.",
+    "Students studying abroad are not eligible for this scheme.",
+    "No distance learning course is permitted under this scheme.",
+    "PMSS can be availed for one course only."
+  ],
+  "documents": [
+    "Service Certificate issued by respective offices of the serving personnel for category IV.",
+    "A copy of the PPO/Discharge certificate/book for Categories I, II and III.",
+    "Applicants are required to upload a scanned copy of the mark sheet/Grade card of MEQ i.e. 10+2/ Diploma/ Graduation (as the case may be).",
+    "Aadhaar card",
+    "Bank account details",
+    "Latest Service Certificate issued by respective offices of the serving personnel for category IV.",
+    "Applicants are required to upload a scanned copy of the previous class mark sheet/Grade card/Proof of gradation to the next class issued by the competent authority."
+  ],
+  "metadata": {
+    "min_age": 0,
+    "max_income": 99999999,
+    "state": "Central",
+    "beneficiary_type": "Student"
+  },
+  "source_url": "https://www.myscheme.gov.in/schemes/pmssrpf"
+}

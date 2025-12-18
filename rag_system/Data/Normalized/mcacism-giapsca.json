@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Medical Camps (Allopathy and Indian systems of Medicine)",
+  "description": "Through this scheme, senior citizens are provided free health checkups and free medicines.",
+  "benefits": [
+    "Free Health Checkup and Free Medicines.",
+    "Awareness Speech by Doctors."
+  ],
+  "eligibility": [
+    "The applicant should be 60 years or above in age.",
+    "The applicant should be a Native/Resident of the Union Territory of Puducherry for at least 5 years."
+  ],
+  "documents": [
+    "Aadhaar Card.",
+    "Birth Certificate / Age Proof.",
+    "Residence-cum-Nativity Certificate, issued by the competent authority.",
+    "Recent Passport-Size Photograph.",
+    "Bank Passbook."
+  ],
+  "metadata": {
+    "min_age": 60,
+    "max_income": 99999999,
+    "state": "Puducherry",
+    "beneficiary_type": "Senior Citizen"
+  },
+  "source_url": "https://www.myscheme.gov.in/schemes/mcacism-giapsca"
+}

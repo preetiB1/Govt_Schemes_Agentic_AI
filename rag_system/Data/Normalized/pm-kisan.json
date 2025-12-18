@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Pradhan Mantri Kisan Samman Nidhi",
+  "description": "The scheme aims to supplement the financial needs of all landholding farmers’ families by procuring various inputs to ensure proper crop health and appropriate yields, commensurate with the anticipated farm income as well as for domestic needs. Under the scheme an amount of ₹ 6000/- per year is released by the Central Government online directly into the bank accounts of the eligible farmers under Direct Benefit Transfer mode, subject to certain exclusions.",
+  "benefits": [
+    "Financial benefit of Rs. 6000 per annum per family payable in three equal installments of Rs 2000 each, every four months."
+  ],
+  "eligibility": [
+    "All landholding farmers' families, which have cultivable land holding in their names are eligible to get benefit under the scheme.",
+    "Not eligible if a family member is an Institutional Land holder.",
+    "Not eligible if a family member holds or held constitutional posts.",
+    "Not eligible if a family member is or was a Minister/State Minister, Member of LokSabha/RajyaSabha/State Legislative Assemblies/State Legislative Councils, Mayor of Municipal Corporations, or Chairperson of District Panchayats.",
+    "Not eligible if a family member is a serving or retired officer/employee of Central/State Government Ministries/Offices/Departments and its field units, Central or State PSEs, Attached offices/Autonomous Institutions under Government, or a regular employee of Local Bodies (excluding Multi Tasking Staff /Class IV/Group D employees).",
+    "Not eligible if a family member is a superannuated/retired pensioner whose monthly pension is Rs.10,000/- or more (excluding Multi Tasking Staff / Class IV/Group D employees).",
+    "Not eligible if any family member paid Income Tax in the last assessment year.",
+    "Not eligible if any family member is a professional like Doctors, Engineers, Lawyers, Chartered Accountants, and Architects registered with Professional bodies and carrying out profession by undertaking practices."
+  ],
+  "documents": [
+    "Aadhaar Card",
+    "Landholding papers",
+    "Savings Bank Account"
+  ],
+  "metadata": {
+    "min_age": 0,
+    "max_income": 99999999,
+    "state": "Central",
+    "beneficiary_type": "Farmer"
+  },
+  "source_url": "https://www.myscheme.gov.in/schemes/pm-kisan"
+}

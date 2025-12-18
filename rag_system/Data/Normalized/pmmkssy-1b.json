@@ -1,0 +1,36 @@
+{
+  "scheme_name": "Pradhan Mantri Matsya Kisan Samridhi Sah-yojana (PM-MKSSY): COMPONENT 1B: One-Time Incentive for the Adoption of Aquaculture Insurance",
+  "description": "The scheme aims to formalise the fisheries sector and incentivise fisheries-based microenterprises and entrepreneurs to access institutional finance. Under Component 1B, the scheme provides a one-time incentive to eligible applicants who have availed institutional credit for fisheries-related activities.",
+  "benefits": [
+    "Financial assistance is provided as a one-time incentive to applicants who have successfully availed institutional credit for fisheries and aquaculture-related activities.",
+    "The incentive is one-time and non-recurring.",
+    "The incentive can only be availed once per eligible activity and applicant.",
+    "The incentive is not linked to any performance benchmarks beyond initial loan sanction and disbursement.",
+    "Funds are released after successful validation and approval of the application by the Project Management Unit (PMU), Department of Fisheries.",
+    "The incentive is transferred directly to the verified bank account of the beneficiary through the Direct Benefit Transfer (DBT) mechanism."
+  ],
+  "eligibility": [
+    "The applicant must be a fisheries microenterprise or an individual engaged in fisheries or aquaculture-related activities.",
+    "The applicant must be registered on the National Fisheries Digital Platform (NFDP).",
+    "The applicant must have availed institutional credit from a recognised financial institution.",
+    "The applicant must possess a valid Aadhaar-seeded bank account for DBT purposes.",
+    "The applicant must submit documentary proof of loan sanction and disbursement.",
+    "The applicant must consent to the verification and validation process undertaken by the Department of Fisheries."
+  ],
+  "documents": [
+    "Aadhaar Card",
+    "Bank Passbook or Statement",
+    "Loan Sanction Letter",
+    "Loan Disbursement Proof",
+    "Depository Account Statement (where applicable)",
+    "NFDP Registration Acknowledgement",
+    "Self-Declaration Form"
+  ],
+  "metadata": {
+    "min_age": 0,
+    "max_income": 99999999,
+    "state": "Central",
+    "beneficiary_type": "General"
+  },
+  "source_url": "https://www.myscheme.gov.in/schemes/pmmkssy-1b"
+}

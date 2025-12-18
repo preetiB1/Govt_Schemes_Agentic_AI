@@ -1,0 +1,39 @@
+{
+  "scheme_name": "Pradhan Mantri Matsya Sampada Yojana: Mini Fish Feed Mills of Production Capacity of 2 Ton /Day",
+  "description": "The “Mini Fish Feed Mills of Production Capacity of 2 Ton /Day” is a scheme component under the Pradhan Mantri Matsya Sampada Yojana (PMMSY), implemented by the Fisheries Department, Government of Haryana. This is a Centrally Sponsored Scheme, aims to strengthen inland aquaculture infrastructure by promoting the establishment of small-scale fish feed mills. Under this scheme, financial assistance, in form of subsidy, is provided to individuals for setting up mini feed mills, ensuring the local availability of quality fish feed at affordable prices for fishers and fish farmers.",
+  "benefits": [
+    "Project Cost: ₹30,00,000/- per unit",
+    "Subsidy will be limited to 40% of the project cost for General Category of beneficiaries.",
+    "Subsidy will be limited to 60% of the project cost for Weaker sections/ SC/ST/Women and their co-operatives of beneficiaries."
+  ],
+  "eligibility": [
+    "The applicant/beneficiary should be a resident of Haryana.",
+    "The applicant should possess a valid Parivar Pehchan Patra (Family ID).",
+    "All operational, maintenance, and post-construction management costs of the infrastructure facilities shall be borne by the beneficiary.",
+    "The beneficiary should ensure that the Fish Feed Mill remains in functional condition.",
+    "The beneficiary should supply the feed produced from the government-assisted Fish Feed Mill/Plant to fishers and fish farmers at an affordable price.",
+    "The applicant should either own the land or have it on a registered lease agreement valid for a minimum of 10 years."
+  ],
+  "documents": [
+    "Date of Birth Certificate - Voting Card/Birth Certificate/Aadhar Card/Matriculation Certificate",
+    "Caste Certificate - Caste Certificate from first class Magistrate (Tehsildar/SDM)",
+    "Agreement 1 - Agreement deed between beneficiary and Fisheries Department",
+    "Training Certificate of the Beneficiary (should be related to the operation/maintenance of a fish feed mill)",
+    "Land Record - Land record from Tehsil(Land-Jamabandi, Nakal Akshizra/Fard/Registered Patta Nama) and the land title should be clear. Additionally, the latest Jamabandi/Fard/Akshizra should be attached.",
+    "GST Bills",
+    "Photographs of a fish feed mill with beneficiariy",
+    "Detail of Bank Account and Pan Card.",
+    "Detailed Project Report (DPR) or Self Contained Proposal (SCP) as per the guidelines issued under the Centrally Sponsored Scheme PMMMSY",
+    "All bills of amount more than Rs 50000/- should be as per E-way/Income Tax/GST rules",
+    "Certificate from the C.A. with the bills submitted for the subsidy case, certifying that the payments for the goods purchased by the beneficiary comply with Income Tax/GST regulations",
+    "CLU/NOC/Pollution/Fire Certificate from the concerned department",
+    "NOC from the Gram Sabha/Municipal Corporation/Authority of the area where the unit is located"
+  ],
+  "metadata": {
+    "min_age": 0,
+    "max_income": 99999999,
+    "state": "Haryana",
+    "beneficiary_type": "Entrepreneur"
+  },
+  "source_url": "https://www.myscheme.gov.in/schemes/mffmpc2td"
+}

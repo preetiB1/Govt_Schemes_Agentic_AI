@@ -1,0 +1,45 @@
+{
+  "scheme_name": "Biotechnology Ignition Grant Scheme",
+  "description": "The “Biotechnology Ignition Grant Scheme (BIG)” is a flagship scheme of the Biotechnology Industry Research Assistance Council (BIRAC) which recognizes and invests in innovative ideas in the biotech sector. The ideas should have clear potential to translate into commercial products/technologies. BIG supports individual entrepreneurs/ start-ups from ideation to Proof of Concept (PoC).",
+  "benefits": [
+    "Grant-in-aid of up to INR 50 lakhs (approx. USD 75,000) for a period of 18 months.",
+    "Technical Mentoring (Connect with Technical Experts)",
+    "IP Support",
+    "Legal Support",
+    "Networking and Outreach",
+    "Trainings",
+    "Regulatory Advice",
+    "Business Mentoring",
+    "Connect with Investors",
+    "Any other assistance on a case basis"
+  ],
+  "eligibility": [
+    "The individual applicant should be an Indian citizen.",
+    "The primary applicant should be the Project Leader.",
+    "The applicant has to be incubated in an incubator.",
+    "If the applicant is formally employed, a No Objection Certificate (NOC) from the competent authority of the organization is required.",
+    "If the applicant is formally employed with a for-profit company/LLP, an undertaking to terminate association with the current employer is needed, or the application should be submitted under the Company/LLP category.",
+    "An individual who is a promoter shareholder of a Biotech company or one of the partners in a Biotech LLP will not be allowed to apply as an individual.",
+    "The Company/LLP should be registered under the Indian Companies Act, 1956/2013.",
+    "The incorporation date of the Company/LLP should not be earlier than 5 years from the date of closing of a particular BIG call.",
+    "Company/LLP’s application should be represented by a Project Leader.",
+    "The Company/LLP must have its own in-house R&D facility that is functional and adequate to execute the project."
+  ],
+  "documents": [
+    "Letter of commitment from Scientific Advisors/ Mentors to serve as honorary advisors",
+    "Letter of intent of key members of the technical team",
+    "Letter of interest/intent from the incubator",
+    "Evidence of access to the unique facility(ies) needed to execute a project",
+    "Evidence of access to key samples needed to execute the project",
+    "Letter of acceptance or MoU with incubator",
+    "Formal agreements/ MoUs with other key facility(ies) providers/ suppliers",
+    "Undertaking by the applicant that the project with the same objectives and deliverables has not received funding from any other agency."
+  ],
+  "metadata": {
+    "min_age": 0,
+    "max_income": 99999999,
+    "state": "Central",
+    "beneficiary_type": "Entrepreneur"
+  },
+  "source_url": "https://www.myscheme.gov.in/schemes/big"
+}

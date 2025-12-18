@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Vocational Education and Training Loan Scheme",
+  "description": "Provides financial assistance to the youth of the target group to enhance their skills and employability.",
+  "benefits": [
+    "Need-based finance to meet up to 90% of expenses (ceilings apply)",
+    "Up to Rs. 4,00,000/- for courses of duration up to 2 years",
+    "Interest rate of 4% per annum (3.5% for women)",
+    "Repayment period of up to 7 years"
+  ],
+  "eligibility": [
+    "Must be from the target group of NSKFDC",
+    "Must have secured admission in a course run or supported by a Ministry, Department, or Organization of the Government or a company, society, or organization supported by the National Skill Development Corporation or State Skill Missions/State Skill Corporations",
+    "Course duration should be a minimum of 6 months and up to 2 years",
+    "Minimum age of 18 years on completion of the course",
+    "Upper age limit of up to 50 years"
+  ],
+  "documents": [
+    "Aadhaar Card",
+    "Driving License",
+    "Bank Details",
+    "Caste Certificate",
+    "Income Certificate",
+    "Domicile Certificate"
+  ],
+  "metadata": {
+    "min_age": 18,
+    "max_income": 99999999,
+    "state": "Central",
+    "beneficiary_type": "General"
+  },
+  "source_url": "https://www.myscheme.gov.in/schemes/vetls"
+}

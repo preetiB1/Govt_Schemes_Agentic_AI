@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Pradhan Mantri Rashtriya Bal Puraskar",
+  "description": "The Pradhan Mantri Rashtriya Bal Puraskar organized by The Ministry of Women and Child Development Government of India has conferred the award to children for their exceptional achievement. This award is the highest civilian honor for children in India. It is awarded annually to children in the age group of 5-18 years for their exceptional abilities and outstanding achievements in seven categories.",
+  "benefits": [
+    "Medal",
+    "Certificate and citation"
+  ],
+  "eligibility": [
+    "A child should be an Indian Citizen.",
+    "A child above the age of 5 years and not exceeding 18 years (as of 31st July of respective year).",
+    "The act/incident/achievement should have been within 2 years of the last date of receipt of application/nomination for the year of consideration.",
+    "The child must have made outstanding contributions in any of the seven categories specified above: Bravery, Art & Culture, Environment, Innovation, Science & Technology, Social Service, Sports."
+  ],
+  "documents": [
+    "A copy of the child's birth certificate.",
+    "A copy of the child's school leaving certificate.",
+    "A copy of the child's Aadhaar card.",
+    "A copy of the child's passport size photograph.",
+    "A certificate from the child's school or institution, stating that the child has made outstanding contributions in any of the fields specified in the guidelines.",
+    "A detailed description of the child's achievements, supported by documentary evidence.",
+    "A recommendation letter from a person of eminence in the field in which the child has made outstanding contributions"
+  ],
+  "metadata": {
+    "min_age": 5,
+    "max_income": 99999999,
+    "state": "Central",
+    "beneficiary_type": "Child"
+  },
+  "source_url": "https://www.myscheme.gov.in/schemes/pmrbp"
+}

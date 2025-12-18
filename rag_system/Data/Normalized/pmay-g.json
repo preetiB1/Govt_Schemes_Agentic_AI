@@ -1,0 +1,36 @@
+{
+  "scheme_name": "Pradhan Mantri Awaas Yojana - Gramin",
+  "description": "PMAY-G aims at providing a pucca house, with basic amenities, to all houseless households and those households living in kutcha and dilapidated house. PMAY-G addresses the rural housing shortage and bridges the housing deficit in rural areas of India, contributing significantly to the mission of \"Housing for All\".",
+  "benefits": [
+    "Financial Assistance of ₹ 1,20,000 per unit for plain areas; and ₹ 1,30,000 per unit for hilly areas, difficult areas, and IAP districts.",
+    "A willing beneficiary can avail of institutional finance (loan) of up to ₹ 70,000 at 3% lower interest rate.",
+    "The minimum size of the house shall be is 25 sq m including a dedicated area for hygienic cooking.",
+    "In convergence with Swachh Bharat Mission-Gramin (SBM-G), the beneficiaries get financial assistance of up to ₹ 12,000 for the construction of toilets.",
+    "In convergence with MGNREGA, the beneficiary is entitled to employment as unskilled labor at ₹ 90.95 per day for 95 days.",
+    "In convergence with Pradhan Mantri Ujjwala Yojana, one LPG connection per house is provided.",
+    "Convergence with different government programmes for piped drinking water, electricity connection, clean & efficient cooking fuel, treatment of social and liquid waste, etc.",
+    "Payments are made electronically directly to bank accounts or post office accounts that are linked to Aadhaar."
+  ],
+  "eligibility": [
+    "All the houseless households living in zero, one, or two-room houses with kutcha walls and kutcha roofs (as per SECC data).",
+    "Households without shelter",
+    "Destitute/ living on alms",
+    "Manual scavengers",
+    "Primitive Tribal Groups",
+    "Legally released bonded laborer"
+  ],
+  "documents": [
+    "Aadhaar number and a self-attested copy of the Aadhaar Card",
+    "Job Card (duly registered with MGNREGA)",
+    "Bank account details – both originals and duplicates.",
+    "Swachh Bharat Mission (SBM) number.",
+    "Affidavit stating the beneficiaries, or their family members do not own a pucca house."
+  ],
+  "metadata": {
+    "min_age": 0,
+    "max_income": 99999999,
+    "state": "Central",
+    "beneficiary_type": "General"
+  },
+  "source_url": "https://www.myscheme.gov.in/schemes/pmay-g"
+}

@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Coffee Development Programme in North Eastern Region: Quality Upgradation / Certification: Supply of Baby Pulpers",
+  "description": "This scheme aims to facilitate the improvement of the quality of coffee produced by growers by encouraging them to establish infrastructure for quality enhancement and obtain certification for their coffees, enabling them to earn better returns. This involves three main activities: supply of pulpers, construction of cement drying yards, and eco-certification of coffee holdings.",
+  "benefits": [
+    "Unit Cost: Actual cost of the unit or ₹16,000 per unit, whichever is less.",
+    "Scale of Subsidy: 75% of the Unit Cost."
+  ],
+  "eligibility": [
+    "The applicant should be a tribal grower.",
+    "The applicant is eligible for only one unit."
+  ],
+  "documents": [
+    "Proof of Grower's Registration.",
+    "Land records/possession certificate duly certified by the Village Authority/State Government Authority/Competent Authority."
+  ],
+  "metadata": {
+    "min_age": 0,
+    "max_income": 99999999,
+    "state": "Central",
+    "beneficiary_type": "Farmer"
+  },
+  "source_url": "https://www.myscheme.gov.in/schemes/cdpnerqucsbp"
+}

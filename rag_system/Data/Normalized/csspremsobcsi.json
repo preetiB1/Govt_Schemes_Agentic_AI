@@ -1,0 +1,33 @@
+{
+  "scheme_name": "Centrally Sponsored Scheme of Pre-matric Scholarship to Other Backward Classes (OBC) for Studies in India",
+  "description": "The objective is to award scholarships to school-going children of poorer OBC parents whose annual income is below double the poverty line.",
+  "benefits": [
+    "Hostellers: Class 3rd to 10th: ₹ 500/- per month for 10 months.",
+    "Day Scholars: Class 1st to 10th: ₹ 100/- per month for 10 months.",
+    "An ad-hoc grant of ₹ 500/- per student per annum to all students i.e. hostlers as well as day scholars will also be given."
+  ],
+  "eligibility": [
+    "The scholarship award will be sanctioned in the case of students whose parents/guardians' income from all sources does not exceed ₹ 2,50,000/- per annum.",
+    "The scholarship will be tenable only in such institutions and for such pre-matriculation courses, which have been duly recognized by the concerned State Government and Union Territory Administrations.",
+    "Regular attendance records of not less than 60% in the previous year should be a pre-requisite for availing scholarship.",
+    "The scholar obtaining benefits under this scheme shall not be allowed to avail of benefits under any other pre-matric scholarship scheme.",
+    "30% of the beneficiaries should be reserved for girl students.",
+    "At least 5% of students with disabilities should be covered by grants or scholarships."
+  ],
+  "documents": [
+    "Passport Sized Photograph",
+    "Aadhaar Number",
+    "Proof of Educational Qualification",
+    "Bonafide Certificate (issued by an institution duly recognized by the concerned State Government/ Union Territory Administration)",
+    "OBC Caste Certificate",
+    "Income Certificate",
+    "Details of the Aadhaar-linked Bank Account."
+  ],
+  "metadata": {
+    "min_age": 0,
+    "max_income": 250000,
+    "state": "Central",
+    "beneficiary_type": "Student"
+  },
+  "source_url": "https://www.myscheme.gov.in/schemes/csspremsobcsi"
+}

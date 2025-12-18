@@ -1,0 +1,34 @@
+{
+  "scheme_name": "Aravanaippu Illam",
+  "description": "The objective of this scheme is to take care of persons who are lacking basic needs & proper care in society, and to maintain them in a safe living condition.",
+  "benefits": [
+    "Free Shelter and Food",
+    "Free Supply of 4 Sets of Dresses and Other Daily Living Needs",
+    "Free Medical Treatment (Referred to Nearby PHC)",
+    "Training in Korai & Coir Mat Weaving",
+    "Labour Charges of ₹ 20/- Per Mat for the Work of Mat Weaving as and When Carried Out",
+    "₹ 5/- Per Day as Daily Pocket Money",
+    "Recreation Like Radio, TV, Library, Besides Local Trips to Places of Interest and Temples",
+    "Annual Tour to Places of Interest",
+    "Annual Day, Conducted Every Year in Order to Exhibit Their Talents and for Prize Distribution"
+  ],
+  "eligibility": [
+    "The applicant should be lacking basic needs and proper care in society.",
+    "The applicant should be 20 years or above in age.",
+    "The applicant should not be suffering from communicable disease."
+  ],
+  "documents": [
+    "Aadhaar Card",
+    "Voter ID",
+    "Address Proof",
+    "Ration Card",
+    "Age Proof"
+  ],
+  "metadata": {
+    "min_age": 20,
+    "max_income": 99999999,
+    "state": "Puducherry",
+    "beneficiary_type": "General"
+  },
+  "source_url": "https://www.myscheme.gov.in/schemes/aillam"
+}

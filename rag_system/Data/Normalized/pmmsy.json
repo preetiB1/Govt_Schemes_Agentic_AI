@@ -1,0 +1,41 @@
+{
+  "scheme_name": "Pradhan Mantri Matsya Sampada Yojana",
+  "description": "The scheme aims to bring about ecologically healthy, economically viable, and socially inclusive development of the fisheries sector of India.",
+  "benefits": [
+    "Financial assistance for fishing infrastructure",
+    "Financial assistance for fish farmers",
+    "Assistance for fisheries management",
+    "Credit-linked subsidy for fish farmers",
+    "Assistance for marketing and export of fish products"
+  ],
+  "eligibility": [
+    "Fishers",
+    "Fish Farmers",
+    "Fish Workers and Fish Vendors",
+    "Fisheries Development Corporations",
+    "Self Help Groups (SHGs)/Joint Liability Groups (JLGs) in the Fisheries Sector",
+    "Fisheries cooperatives",
+    "Fisheries Federations",
+    "Entrepreneurs and Private Firms",
+    "Fish Farmers Producer Organizations/companies (FFPOs/Cs)",
+    "SCs/STs/Women/Differently Abled Persons",
+    "State Governments/UTs and Their Entities",
+    "State Fisheries Development Boards (SFDB)",
+    "Central Government and Its Entities"
+  ],
+  "documents": [
+    "Aadhaar Card",
+    "PAN Card",
+    "Bank Account Details",
+    "Business Registration Certificate",
+    "Project Report",
+    "Land Documents"
+  ],
+  "metadata": {
+    "min_age": 0,
+    "max_income": 99999999,
+    "state": "Central",
+    "beneficiary_type": "Farmer"
+  },
+  "source_url": "https://www.myscheme.gov.in/schemes/pmmsy"
+}

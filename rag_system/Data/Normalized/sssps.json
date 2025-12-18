@@ -1,0 +1,43 @@
+{
+  "scheme_name": "Swatantrata Sainik Samman Pension Scheme",
+  "description": "The scheme provides the grant of pension to living freedom fighters and their families; if they are no more alive, and to the families or martyrs.",
+  "benefits": [
+    "Basic Pension w.e.f. 15.08.2016 in Rupees (Per Month): 30,000/- for Ex-Andaman Political/ Prisoners/ Spouses",
+    "Total Amount of Pension Including 3% DR in Rupees (Per Month): 30,900/- for Ex-Andaman Political/ Prisoners/ Spouses",
+    "Basic Pension w.e.f. 15.08.2016 in Rupees (Per Month): 28,000/- for Freedom Fighters Who Suffered Outside British India/Spouses",
+    "Total Amount of Pension Including 3% DR in Rupees (Per Month): 28,840/- for Freedom Fighters Who Suffered Outside British India/Spouses",
+    "Basic Pension w.e.f. 15.08.2016 in Rupees (Per Month): 26,000/- for Other Freedom Fighters/ spouses including INA",
+    "Total Amount of Pension Including 3% DR in Rupees (Per Month): 26,780/- for Other Freedom Fighters/ spouses including INA",
+    "Basic Pension w.e.f. 15.08.2016 in Rupees (Per Month): 50% of the sum that would have been admissible to the Freedom Fighter i.e. in the range of ₹ 13,000/- to ₹ 15,000/- for Dependent parents/eligible daughters (maximum 3 daughters at any point of time)",
+    "Total Amount of Pension Including 3% DR in Rupees (Per Month): 50% of the sum that would have been admissible to the Freedom Fighter i.e. in the range of ₹ 13,390/- to ₹ 15,450/- for Dependent parents/eligible daughters (maximum 3 daughters at any point of time)"
+  ],
+  "eligibility": [
+    "A person who had suffered a minimum imprisonment of six months in the mainland jails before Independence.",
+    "Ex-INA personnel will be eligible for pension if the imprisonment/detention suffered by them was outside India.",
+    "The minimum period of actual imprisonment for pension eligibility has been reduced to three months, in the case of women and SC/ST freedom fighters from 01.08.1980.",
+    "A person who remained underground for more than six months provided he was: a proclaimed offender; or one on whom an award for arrest/head was announced; or one for whose detention order was issued but not served.",
+    "A person interned in his home or externed from his district provided the period of internment/externment was six months or more.",
+    "A person whose property was confiscated or attached and sold due to participation in the freedom struggle.",
+    "A person who became permanently incapacitated during firing or lathi charge.",
+    "A person who lost his job (Central or State Government) and thus means of livelihood for participation in the national movement."
+  ],
+  "documents": [
+    "Certificate from the concerned jail authorities, District Magistrates or the State Government in case of non-availability of such certificates co-prisoner certificates from a sitting MP or MLA or Ex-MP or ex-MLA specifying the jail period.",
+    "Documentary evidence by way of Court’s/Government orders proclaiming the applicant as an offender, announcing an award on his head, or for his arrest or ordering his detention.",
+    "Certificates from veteran freedom fighters who had themselves undergone imprisonment for five years or more if the official records are not forthcoming due to their non-availability.",
+    "Order of internment or externment or any other corroboratory documentary evidence.",
+    "Certificates from prominent freedom fighters who had themselves undergone imprisonment for five years or more if the official records are not available.",
+    "Orders of confiscation and sale of property, Orders of dismissal or removal from service.",
+    "Photograph.",
+    "Two prominent identification marks.",
+    "Specimen signature or left-hand thumb and finger impressions duly attested by a competent authority, in the case of freedom fighters who are not literate enough to sign their names.",
+    "Date of birth."
+  ],
+  "metadata": {
+    "min_age": 0,
+    "max_income": 99999999,
+    "state": "Central",
+    "beneficiary_type": "General"
+  },
+  "source_url": "https://www.myscheme.gov.in/schemes/sssps"
+}

@@ -1,0 +1,44 @@
+{
+  "scheme_name": "Prime Minister’s Scholarship Scheme for the Wards of States/UTs Police Personnel",
+  "description": "The Prime Minister’s Scholarship Scheme (PMSS) for the Wards of States/UTs Police Personnel is a scholarship scheme introduced by the Ministry of Home Affairs, Government of India, in the academic session 2019-20. It aims to encourage higher technical and professional education for dependent wards of States/UTs Police Personnel martyred during Terror/Naxal attacks. A total of 500 scholarships are awarded annually, equally divided between boys and girls.",
+  "benefits": [
+    "Scholarship amount: ₹3,000/- per month for girls (₹36,000/- annually).",
+    "Scholarship amount: ₹2,500/- per month for boys (₹30,000/- annually).",
+    "Duration: Up to 5 years, depending on the course duration and regulatory body approval."
+  ],
+  "eligibility": [
+    "Dependent wards of States/UTs Police Personnel martyred during Terror/Naxal attacks.",
+    "Pursuing first professional degree programs in fields like Engineering, Medicine, Dental, Veterinary, BBA, BCA, B. Pharma, B.Sc (Nursing, Agriculture, etc.), MBA, and MCA, recognized by AICTE, MCI, or UGC.",
+    "New applicants must have a minimum of 60% marks in their Minimum Entry Qualification (MEQ) (10+2/Diploma/Graduation or equivalent).",
+    "Renewal applicants must pass each subsequent academic year with a minimum of 50% marks.",
+    "A one-year grace period is allowed for delayed renewal applications.",
+    "Admissible for only two children per family.",
+    "Marital status does not affect eligibility.",
+    "Wards admitted to the 2nd year of technical/professional Bachelor Degree Courses (e.g., BE/B. Tech) through lateral entry after completing Diploma courses are eligible.",
+    "Only full-time, regular professional courses are eligible; correspondence/distance learning courses are excluded.",
+    "Applicants should not be availing benefits from other scholarship schemes, stipends, or financial assistance.",
+    "Applicants must not have previously availed the PMSS scholarship (except for renewal).",
+    "Courses must lead to a degree; diploma courses not leading to a degree are excluded, as are master's degree programs except MBA/MCA if they are the first professional course.",
+    "Applicants must be admitted to colleges/institutes/universities approved under the UGC Act, recognized by AICTE, or approved by MCI (for medical courses), with NBA accredited courses for engineering degrees.",
+    "Applicants must be studying in India (studying abroad is excluded).",
+    "Change of course/college after selection will lead to scholarship rejection."
+  ],
+  "documents": [
+    "Aadhaar Card",
+    "Passport-size photograph",
+    "Certificate from the State Govt. confirming the Police personnel was killed in terror/naxal violence.",
+    "Attested scanned copy of Mark sheet for Minimum Entry Qualification (MEQ) (XII/Diploma/Graduation or equivalent).",
+    "Disability Certificate (if applicable).",
+    "Death Certificate.",
+    "Bank account details (preferably Aadhaar-seeded nationalized bank account).",
+    "Certificate issued by the educational institution (for renewal applicants).",
+    "Any other relevant documents as required."
+  ],
+  "metadata": {
+    "min_age": 0,
+    "max_income": 99999999,
+    "state": "Central",
+    "beneficiary_type": "Student"
+  },
+  "source_url": "https://www.myscheme.gov.in/schemes/pmsswsutpp"
+}

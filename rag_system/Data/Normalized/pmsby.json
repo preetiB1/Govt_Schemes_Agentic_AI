@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Pradhan Mantri Suraksha Bima Yojana",
+  "description": "An Accident Insurance Scheme offering accidental death and disability cover for death or disability on account of an accident. It requires an annual premium of Rs. 20, auto-debited from the bank/Post office account, and provides coverage from June 1st to May 31st. Coverage terminates at age 70 or upon account closure/insufficient balance.",
+  "benefits": [
+    "On Death, the Nominee shall get Rs. 2 Lakhs.",
+    "Total and irrecoverable loss of both eyes or loss of use of both hands or feet or loss of sight of one eye and loss of use of hand or foot, the Subscriber shall get Rs. 2 Lakhs.",
+    "Total and irrecoverable loss of sight of one eye or loss of use of one hand or foot, the subscriber shall get Rs. 1 Lakh."
+  ],
+  "eligibility": [
+    "Individual bank account holders of participating banks aged between 18 years (completed) and 70 years (age nearer birthday).",
+    "Must give consent to join / enable auto-debit.",
+    "All bank/post office account holders other than institutional account holders are eligible.",
+    "NRIs having an eligible bank account with a bank branch located in India are eligible, subject to fulfilment of terms and conditions."
+  ],
+  "documents": [],
+  "metadata": {
+    "min_age": 18,
+    "max_income": 99999999,
+    "state": "Central",
+    "beneficiary_type": "General"
+  },
+  "source_url": "https://www.myscheme.gov.in/schemes/pmsby"
+}
