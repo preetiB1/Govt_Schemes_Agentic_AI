@@ -1,5 +1,3 @@
-Here is a comprehensive README.md for your GitHub repository. It covers the architecture, setup, usage, and features based on the code provided.
-
 🇮🇳 SchemeKhoj - Voice-Based AI Agent for Government Schemes
 SchemeKhoj is a voice-first, vernacular AI agent designed to help Indian users identify and apply for government welfare schemes in Hindi.
 Built as part of an AI/ML Design Assignment, this system bridges the digital divide by allowing users to interact naturally using their voice, overcoming language and literacy barriers.
