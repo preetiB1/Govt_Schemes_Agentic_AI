@@ -10,7 +10,7 @@ class Config:
     JINA_API_KEY = os.getenv("JINA_API_KEY")
 
     # MODELS
-    LLM_MODEL = "models/gemma-3-27b-it"
+    LLM_MODEL = "llama-3.1-8b-instant"
     EMBEDDING_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
 
     # PATHS 
